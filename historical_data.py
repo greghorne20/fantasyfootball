@@ -82,6 +82,6 @@ d = r.json()
 df = append_data_for_year(d, df, '2020')
 
 print(df)
-df.to_csv("history.csv")
+df.to_csv("boxscore_history.csv")
 
 
