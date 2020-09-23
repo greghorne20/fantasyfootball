@@ -1,0 +1,1264 @@
+,Week,Team1,Score1,Team2,Score2,Year,Type
+0,1,Crusaders,89.0,Street Fighters,59.0,2005,Regular
+1,1,Crackers,51.0,Uncle Bill,71.0,2005,Regular
+2,1,Afternoon Delights,82.0,Bubba,95.0,2005,Regular
+3,1,Fuzzman,59.0,Monstars,73.0,2005,Regular
+4,2,Fuzzman,84.0,Crusaders,115.0,2005,Regular
+5,2,Street Fighters,115.0,Crackers,80.0,2005,Regular
+6,2,Uncle Bill,109.0,Afternoon Delights,76.0,2005,Regular
+7,2,Bubba,72.0,Monstars,57.0,2005,Regular
+8,3,Crusaders,116.0,Crackers,132.0,2005,Regular
+9,3,Afternoon Delights,82.0,Street Fighters,86.0,2005,Regular
+10,3,Monstars,116.0,Uncle Bill,73.0,2005,Regular
+11,3,Fuzzman,101.0,Bubba,77.0,2005,Regular
+12,4,Afternoon Delights,89.0,Crusaders,140.0,2005,Regular
+13,4,Fuzzman,99.0,Crackers,131.0,2005,Regular
+14,4,Street Fighters,63.0,Monstars,104.0,2005,Regular
+15,4,Uncle Bill,94.0,Bubba,75.0,2005,Regular
+16,5,Crusaders,91.0,Monstars,106.0,2005,Regular
+17,5,Crackers,112.0,Afternoon Delights,77.0,2005,Regular
+18,5,Bubba,78.0,Street Fighters,71.0,2005,Regular
+19,5,Fuzzman,83.0,Uncle Bill,53.0,2005,Regular
+20,6,Bubba,107.0,Crusaders,106.0,2005,Regular
+21,6,Monstars,102.0,Crackers,139.0,2005,Regular
+22,6,Fuzzman,74.0,Afternoon Delights,69.0,2005,Regular
+23,6,Street Fighters,85.0,Uncle Bill,84.0,2005,Regular
+24,7,Crusaders,102.0,Uncle Bill,80.0,2005,Regular
+25,7,Crackers,87.0,Bubba,77.0,2005,Regular
+26,7,Afternoon Delights,97.0,Monstars,99.0,2005,Regular
+27,7,Fuzzman,69.0,Street Fighters,52.0,2005,Regular
+28,8,Street Fighters,124.0,Crusaders,83.0,2005,Regular
+29,8,Uncle Bill,85.0,Crackers,71.0,2005,Regular
+30,8,Bubba,93.0,Afternoon Delights,86.0,2005,Regular
+31,8,Monstars,66.0,Fuzzman,47.0,2005,Regular
+32,9,Crusaders,93.0,Fuzzman,70.0,2005,Regular
+33,9,Crackers,133.0,Street Fighters,55.0,2005,Regular
+34,9,Afternoon Delights,79.0,Uncle Bill,78.0,2005,Regular
+35,9,Monstars,106.0,Bubba,80.0,2005,Regular
+36,10,Crackers,114.0,Crusaders,88.0,2005,Regular
+37,10,Street Fighters,80.0,Afternoon Delights,78.0,2005,Regular
+38,10,Uncle Bill,49.0,Monstars,91.0,2005,Regular
+39,10,Bubba,103.0,Fuzzman,69.0,2005,Regular
+40,11,Crusaders,88.0,Afternoon Delights,61.0,2005,Regular
+41,11,Crackers,118.0,Fuzzman,105.0,2005,Regular
+42,11,Monstars,96.0,Street Fighters,73.0,2005,Regular
+43,11,Bubba,107.0,Uncle Bill,119.0,2005,Regular
+44,12,Monstars,98.0,Crusaders,136.0,2005,Regular
+45,12,Afternoon Delights,70.0,Crackers,93.0,2005,Regular
+46,12,Street Fighters,97.0,Bubba,102.0,2005,Regular
+47,12,Uncle Bill,68.0,Fuzzman,85.0,2005,Regular
+48,13,Crusaders,53.0,Bubba,85.0,2005,Regular
+49,13,Crackers,88.0,Monstars,101.0,2005,Regular
+50,13,Afternoon Delights,66.0,Fuzzman,62.0,2005,Regular
+51,13,Uncle Bill,73.0,Street Fighters,68.0,2005,Regular
+52,14,Monstars,91.0,Crusaders,69.0,2005,Regular
+53,14,Crackers,103.0,Bubba,115.0,2005,Regular
+54,14,Uncle Bill,89.0,Fuzzman,77.0,2005,Regular
+55,14,Street Fighters,64.0,Afternoon Delights,91.0,2005,Regular
+56,15,Monstars,84.0,Bubba,96.0,2005,Playoff
+57,15,Crackers,87.0,Crusaders,71.0,2005,Playoff
+58,15,Uncle Bill,97.0,Afternoon Delights,61.0,2005,Playoff
+59,15,Fuzzman,66.0,Street Fighters,96.0,2005,Playoff
+0,1,Crusaders,89.0,Street Fighters,89.0,2006,Regular
+1,1,Crackers,75.0,Uncle Bill,70.0,2006,Regular
+2,1,Afternoon Delights,46.0,Bubba,68.0,2006,Regular
+3,1,Fuzzman,86.0,Monstars,118.0,2006,Regular
+4,2,Fuzzman,89.0,Crusaders,118.0,2006,Regular
+5,2,Street Fighters,91.0,Crackers,64.0,2006,Regular
+6,2,Uncle Bill,94.0,Afternoon Delights,77.0,2006,Regular
+7,2,Bubba,86.0,Monstars,83.0,2006,Regular
+8,3,Crusaders,70.0,Crackers,72.0,2006,Regular
+9,3,Afternoon Delights,74.0,Street Fighters,94.0,2006,Regular
+10,3,Monstars,61.0,Uncle Bill,80.0,2006,Regular
+11,3,Fuzzman,76.0,Bubba,74.0,2006,Regular
+12,4,Afternoon Delights,99.0,Crusaders,71.0,2006,Regular
+13,4,Fuzzman,91.0,Crackers,71.0,2006,Regular
+14,4,Street Fighters,55.0,Monstars,109.0,2006,Regular
+15,4,Uncle Bill,112.0,Bubba,67.0,2006,Regular
+16,5,Crusaders,65.0,Monstars,94.0,2006,Regular
+17,5,Crackers,71.0,Afternoon Delights,66.0,2006,Regular
+18,5,Bubba,62.0,Street Fighters,58.0,2006,Regular
+19,5,Fuzzman,70.0,Uncle Bill,110.0,2006,Regular
+20,6,Bubba,80.0,Crusaders,103.0,2006,Regular
+21,6,Monstars,85.0,Crackers,42.0,2006,Regular
+22,6,Fuzzman,65.0,Afternoon Delights,135.0,2006,Regular
+23,6,Street Fighters,100.0,Uncle Bill,114.0,2006,Regular
+24,7,Crusaders,116.0,Uncle Bill,56.0,2006,Regular
+25,7,Crackers,65.0,Bubba,70.0,2006,Regular
+26,7,Afternoon Delights,85.0,Monstars,86.0,2006,Regular
+27,7,Fuzzman,67.0,Street Fighters,106.0,2006,Regular
+28,8,Street Fighters,94.0,Crusaders,105.0,2006,Regular
+29,8,Uncle Bill,57.0,Crackers,113.0,2006,Regular
+30,8,Bubba,66.0,Afternoon Delights,58.0,2006,Regular
+31,8,Monstars,122.0,Fuzzman,101.0,2006,Regular
+32,9,Crusaders,88.0,Fuzzman,56.0,2006,Regular
+33,9,Crackers,89.0,Street Fighters,63.0,2006,Regular
+34,9,Afternoon Delights,127.0,Uncle Bill,85.0,2006,Regular
+35,9,Monstars,137.0,Bubba,86.0,2006,Regular
+36,10,Crackers,107.0,Crusaders,143.0,2006,Regular
+37,10,Street Fighters,86.0,Afternoon Delights,57.0,2006,Regular
+38,10,Uncle Bill,58.0,Monstars,113.0,2006,Regular
+39,10,Bubba,66.0,Fuzzman,68.0,2006,Regular
+40,11,Crusaders,110.0,Afternoon Delights,46.0,2006,Regular
+41,11,Crackers,73.0,Fuzzman,84.0,2006,Regular
+42,11,Monstars,105.0,Street Fighters,62.0,2006,Regular
+43,11,Bubba,56.0,Uncle Bill,45.0,2006,Regular
+44,12,Monstars,109.0,Crusaders,108.0,2006,Regular
+45,12,Afternoon Delights,97.0,Crackers,75.0,2006,Regular
+46,12,Street Fighters,77.0,Bubba,100.0,2006,Regular
+47,12,Uncle Bill,64.0,Fuzzman,86.0,2006,Regular
+48,13,Crusaders,100.0,Bubba,82.0,2006,Regular
+49,13,Crackers,64.0,Monstars,105.0,2006,Regular
+50,13,Afternoon Delights,94.0,Fuzzman,72.0,2006,Regular
+51,13,Uncle Bill,83.0,Street Fighters,82.0,2006,Regular
+52,14,Monstars,103.0,Uncle Bill,101.0,2006,Regular
+53,14,Crusaders,127.0,Bubba,65.0,2006,Regular
+54,14,Afternoon Delights,80.0,Fuzzman,72.0,2006,Regular
+55,14,Crackers,87.0,Street Fighters,64.0,2006,Regular
+56,15,Monstars,72.0,Crusaders,82.0,2006,Playoff
+57,15,Bubba,96.0,Uncle Bill,44.0,2006,Playoff
+58,15,Afternoon Delights,91.0,Crackers,113.0,2006,Playoff
+59,15,Fuzzman,57.0,Street Fighters,128.0,2006,Playoff
+0,1,Crusaders,70.0,Crackers,88.0,2007,Regular
+1,1,Afternoon Delights,94.0,Monstars,96.0,2007,Regular
+2,1,Bubba,67.0,Uncle Bill,78.0,2007,Regular
+3,1,Street Fighters,133.0,Fuzzman,73.0,2007,Regular
+4,2,Afternoon Delights,84.0,Crusaders,77.0,2007,Regular
+5,2,Street Fighters,114.0,Bubba,69.0,2007,Regular
+6,2,Monstars,133.0,Crackers,113.0,2007,Regular
+7,2,Fuzzman,100.0,Uncle Bill,97.0,2007,Regular
+8,3,Crusaders,120.0,Monstars,83.0,2007,Regular
+9,3,Bubba,74.0,Fuzzman,85.0,2007,Regular
+10,3,Crackers,88.0,Afternoon Delights,114.0,2007,Regular
+11,3,Uncle Bill,82.0,Street Fighters,94.0,2007,Regular
+12,4,Bubba,49.0,Crusaders,59.0,2007,Regular
+13,4,Street Fighters,106.0,Monstars,92.0,2007,Regular
+14,4,Fuzzman,95.0,Afternoon Delights,37.0,2007,Regular
+15,4,Uncle Bill,68.0,Crackers,88.0,2007,Regular
+16,5,Crusaders,89.0,Uncle Bill,50.0,2007,Regular
+17,5,Monstars,86.0,Fuzzman,84.0,2007,Regular
+18,5,Afternoon Delights,72.0,Bubba,79.0,2007,Regular
+19,5,Crackers,98.0,Street Fighters,73.0,2007,Regular
+20,6,Street Fighters,65.0,Crusaders,87.0,2007,Regular
+21,6,Uncle Bill,107.0,Afternoon Delights,62.0,2007,Regular
+22,6,Bubba,76.0,Monstars,55.0,2007,Regular
+23,6,Fuzzman,121.0,Crackers,138.0,2007,Regular
+24,7,Crusaders,63.0,Fuzzman,119.0,2007,Regular
+25,7,Afternoon Delights,68.0,Street Fighters,95.0,2007,Regular
+26,7,Monstars,76.0,Uncle Bill,45.0,2007,Regular
+27,7,Crackers,59.0,Bubba,110.0,2007,Regular
+28,8,Crackers,65.0,Crusaders,67.0,2007,Regular
+29,8,Monstars,87.0,Afternoon Delights,119.0,2007,Regular
+30,8,Uncle Bill,84.0,Bubba,93.0,2007,Regular
+31,8,Fuzzman,72.0,Street Fighters,93.0,2007,Regular
+32,9,Crusaders,74.0,Afternoon Delights,54.0,2007,Regular
+33,9,Bubba,75.0,Street Fighters,127.0,2007,Regular
+34,9,Crackers,108.0,Monstars,79.0,2007,Regular
+35,9,Uncle Bill,68.0,Fuzzman,92.0,2007,Regular
+36,10,Monstars,80.0,Crusaders,78.0,2007,Regular
+37,10,Fuzzman,15.0,Bubba,99.0,2007,Regular
+38,10,Afternoon Delights,125.0,Crackers,62.0,2007,Regular
+39,10,Street Fighters,90.0,Uncle Bill,55.0,2007,Regular
+40,11,Crusaders,54.0,Bubba,94.0,2007,Regular
+41,11,Monstars,33.0,Street Fighters,153.0,2007,Regular
+42,11,Afternoon Delights,59.0,Fuzzman,61.0,2007,Regular
+43,11,Crackers,77.0,Uncle Bill,78.0,2007,Regular
+44,12,Uncle Bill,92.0,Crusaders,59.0,2007,Regular
+45,12,Fuzzman,86.0,Monstars,105.0,2007,Regular
+46,12,Bubba,99.0,Afternoon Delights,81.0,2007,Regular
+47,12,Street Fighters,79.0,Crackers,89.0,2007,Regular
+48,13,Crusaders,95.0,Street Fighters,95.0,2007,Regular
+49,13,Afternoon Delights,96.0,Uncle Bill,91.0,2007,Regular
+50,13,Monstars,112.0,Bubba,69.0,2007,Regular
+51,13,Crackers,101.0,Fuzzman,100.0,2007,Regular
+52,14,Street Fighters,98.0,Bubba,107.0,2007,Regular
+53,14,Crackers,83.0,Monstars,96.0,2007,Regular
+54,14,Fuzzman,75.0,Crusaders,65.0,2007,Regular
+55,14,Afternoon Delights,115.0,Uncle Bill,75.0,2007,Regular
+56,15,Monstars,70.0,Bubba,78.0,2007,Playoff
+57,15,Street Fighters,50.0,Crackers,86.0,2007,Playoff
+58,15,Fuzzman,53.0,Afternoon Delights,78.0,2007,Playoff
+59,15,Crusaders,61.0,Uncle Bill,70.0,2007,Playoff
+0,1,Crusaders,83.0,Crackers,54.0,2008,Regular
+1,1,Afternoon Delights,82.0,Monstars,79.0,2008,Regular
+2,1,Bubba,100.0,Uncle Bill,52.0,2008,Regular
+3,1,Street Fighters,91.0,Fuzzman,72.0,2008,Regular
+4,2,Afternoon Delights,101.0,Crusaders,60.0,2008,Regular
+5,2,Street Fighters,77.0,Bubba,121.0,2008,Regular
+6,2,Monstars,73.0,Crackers,92.0,2008,Regular
+7,2,Fuzzman,52.0,Uncle Bill,74.0,2008,Regular
+8,3,Crusaders,95.0,Monstars,92.0,2008,Regular
+9,3,Bubba,51.0,Fuzzman,54.0,2008,Regular
+10,3,Crackers,61.0,Afternoon Delights,75.0,2008,Regular
+11,3,Uncle Bill,95.0,Street Fighters,83.0,2008,Regular
+12,4,Bubba,93.0,Crusaders,99.0,2008,Regular
+13,4,Street Fighters,94.0,Monstars,81.0,2008,Regular
+14,4,Fuzzman,91.0,Afternoon Delights,80.0,2008,Regular
+15,4,Uncle Bill,96.0,Crackers,82.0,2008,Regular
+16,5,Crusaders,82.0,Uncle Bill,99.0,2008,Regular
+17,5,Monstars,46.0,Fuzzman,87.0,2008,Regular
+18,5,Afternoon Delights,81.0,Bubba,85.0,2008,Regular
+19,5,Crackers,88.0,Street Fighters,52.0,2008,Regular
+20,6,Street Fighters,84.0,Crusaders,89.0,2008,Regular
+21,6,Uncle Bill,110.0,Afternoon Delights,94.0,2008,Regular
+22,6,Bubba,43.0,Monstars,90.0,2008,Regular
+23,6,Fuzzman,58.0,Crackers,100.0,2008,Regular
+24,7,Crusaders,68.0,Fuzzman,57.0,2008,Regular
+25,7,Afternoon Delights,110.0,Street Fighters,83.0,2008,Regular
+26,7,Monstars,72.0,Uncle Bill,63.0,2008,Regular
+27,7,Crackers,96.0,Bubba,46.0,2008,Regular
+28,8,Crackers,74.0,Crusaders,110.0,2008,Regular
+29,8,Monstars,85.0,Afternoon Delights,100.0,2008,Regular
+30,8,Uncle Bill,68.0,Bubba,70.0,2008,Regular
+31,8,Fuzzman,89.0,Street Fighters,108.0,2008,Regular
+32,9,Crusaders,75.0,Afternoon Delights,86.0,2008,Regular
+33,9,Bubba,64.0,Street Fighters,55.0,2008,Regular
+34,9,Crackers,89.0,Monstars,58.0,2008,Regular
+35,9,Uncle Bill,68.0,Fuzzman,33.0,2008,Regular
+36,10,Monstars,73.0,Crusaders,93.0,2008,Regular
+37,10,Fuzzman,62.0,Bubba,72.0,2008,Regular
+38,10,Afternoon Delights,107.0,Crackers,77.0,2008,Regular
+39,10,Street Fighters,95.0,Uncle Bill,108.0,2008,Regular
+40,11,Crusaders,76.0,Bubba,75.0,2008,Regular
+41,11,Monstars,67.0,Street Fighters,80.0,2008,Regular
+42,11,Afternoon Delights,88.0,Fuzzman,91.0,2008,Regular
+43,11,Crackers,68.0,Uncle Bill,79.0,2008,Regular
+44,12,Uncle Bill,100.0,Crusaders,111.0,2008,Regular
+45,12,Fuzzman,60.0,Monstars,96.0,2008,Regular
+46,12,Bubba,91.0,Afternoon Delights,95.0,2008,Regular
+47,12,Street Fighters,80.0,Crackers,72.0,2008,Regular
+48,13,Crusaders,102.0,Street Fighters,89.0,2008,Regular
+49,13,Afternoon Delights,72.0,Uncle Bill,116.0,2008,Regular
+50,13,Monstars,107.0,Bubba,61.0,2008,Regular
+51,13,Crackers,68.0,Fuzzman,83.0,2008,Regular
+52,14,Crusaders,84.0,Bubba,77.0,2008,Regular
+53,14,Uncle Bill,50.0,Afternoon Delights,86.0,2008,Regular
+54,14,Street Fighters,64.0,Crackers,111.0,2008,Regular
+55,14,Fuzzman,105.0,Monstars,95.0,2008,Regular
+56,15,Crusaders,136.0,Afternoon Delights,85.0,2008,Playoff
+57,15,Uncle Bill,75.0,Bubba,52.0,2008,Playoff
+58,15,Crackers,68.0,Fuzzman,49.0,2008,Playoff
+59,15,Street Fighters,87.0,Monstars,73.0,2008,Playoff
+0,1,Crusaders,102.0,Crackers,99.0,2009,Regular
+1,1,Monstars,108.0,Bubba,56.0,2009,Regular
+2,1,Uncle Bill,71.0,Street Fighters,97.0,2009,Regular
+3,1,Waiver Wire,67.0,Hall,94.0,2009,Regular
+4,2,Monstars,86.0,Crusaders,75.0,2009,Regular
+5,2,Waiver Wire,97.0,Uncle Bill,81.0,2009,Regular
+6,2,Bubba,96.0,Crackers,91.0,2009,Regular
+7,2,Hall,68.0,Street Fighters,128.0,2009,Regular
+8,3,Crusaders,75.0,Bubba,65.0,2009,Regular
+9,3,Uncle Bill,92.0,Hall,97.0,2009,Regular
+10,3,Crackers,96.0,Monstars,87.0,2009,Regular
+11,3,Street Fighters,68.0,Waiver Wire,69.0,2009,Regular
+12,4,Uncle Bill,83.0,Crusaders,83.0,2009,Regular
+13,4,Waiver Wire,101.0,Bubba,90.0,2009,Regular
+14,4,Hall,99.0,Monstars,77.0,2009,Regular
+15,4,Street Fighters,62.0,Crackers,89.0,2009,Regular
+16,5,Crusaders,94.0,Street Fighters,101.0,2009,Regular
+17,5,Bubba,92.0,Hall,67.0,2009,Regular
+18,5,Monstars,100.0,Uncle Bill,54.0,2009,Regular
+19,5,Crackers,80.0,Waiver Wire,76.0,2009,Regular
+20,6,Waiver Wire,94.0,Crusaders,130.0,2009,Regular
+21,6,Street Fighters,103.0,Monstars,119.0,2009,Regular
+22,6,Uncle Bill,96.0,Bubba,71.0,2009,Regular
+23,6,Hall,101.0,Crackers,104.0,2009,Regular
+24,7,Crusaders,104.0,Hall,82.0,2009,Regular
+25,7,Monstars,119.0,Waiver Wire,115.0,2009,Regular
+26,7,Bubba,98.0,Street Fighters,92.0,2009,Regular
+27,7,Crackers,87.0,Uncle Bill,99.0,2009,Regular
+28,8,Crackers,119.0,Crusaders,99.0,2009,Regular
+29,8,Bubba,74.0,Monstars,84.0,2009,Regular
+30,8,Street Fighters,81.0,Uncle Bill,119.0,2009,Regular
+31,8,Hall,53.0,Waiver Wire,74.0,2009,Regular
+32,9,Crusaders,82.0,Monstars,82.0,2009,Regular
+33,9,Uncle Bill,116.0,Waiver Wire,95.0,2009,Regular
+34,9,Crackers,86.0,Bubba,97.0,2009,Regular
+35,9,Street Fighters,109.0,Hall,85.0,2009,Regular
+36,10,Bubba,81.0,Crusaders,86.0,2009,Regular
+37,10,Hall,111.0,Uncle Bill,139.0,2009,Regular
+38,10,Monstars,80.0,Crackers,53.0,2009,Regular
+39,10,Waiver Wire,78.0,Street Fighters,65.0,2009,Regular
+40,11,Crusaders,101.0,Uncle Bill,88.0,2009,Regular
+41,11,Bubba,77.0,Waiver Wire,89.0,2009,Regular
+42,11,Monstars,90.0,Hall,89.0,2009,Regular
+43,11,Crackers,84.0,Street Fighters,77.0,2009,Regular
+44,12,Street Fighters,134.0,Crusaders,88.0,2009,Regular
+45,12,Hall,46.0,Bubba,79.0,2009,Regular
+46,12,Uncle Bill,105.0,Monstars,69.0,2009,Regular
+47,12,Waiver Wire,81.0,Crackers,91.0,2009,Regular
+48,13,Crusaders,118.0,Waiver Wire,86.0,2009,Regular
+49,13,Monstars,71.0,Street Fighters,81.0,2009,Regular
+50,13,Bubba,89.0,Uncle Bill,83.0,2009,Regular
+51,13,Crackers,73.0,Hall,95.0,2009,Regular
+52,14,Monstars,72.0,Uncle Bill,92.0,2009,Regular
+53,14,Crusaders,87.0,Crackers,86.0,2009,Regular
+54,14,Street Fighters,139.0,Waiver Wire,90.0,2009,Regular
+55,14,Bubba,85.0,Hall,75.0,2009,Regular
+56,15,Crusaders,71.0,Uncle Bill,116.0,2009,Playoff
+57,15,Monstars,82.0,Crackers,97.0,2009,Playoff
+58,15,Street Fighters,77.0,Bubba,73.0,2009,Playoff
+59,15,Waiver Wire,96.0,Hall,76.0,2009,Playoff
+0,1,Crackers,40.0,Crusaders,69.0,2010,Regular
+1,1,Ram Rod,34.0,Monstars,85.0,2010,Regular
+2,1,Tommy,77.0,Bubba,59.0,2010,Regular
+3,1,Hall,38.0,Uncle Bill,107.0,2010,Regular
+4,1,Waiver Wire,54.0,Street Fighters,111.0,2010,Regular
+5,2,Crusaders,99.0,Monstars,109.0,2010,Regular
+6,2,Bubba,69.0,Crackers,62.0,2010,Regular
+7,2,Uncle Bill,85.0,Ram Rod,81.0,2010,Regular
+8,2,Street Fighters,89.0,Tommy,52.0,2010,Regular
+9,2,Waiver Wire,113.0,Hall,72.0,2010,Regular
+10,3,Bubba,51.0,Crusaders,89.0,2010,Regular
+11,3,Monstars,119.0,Uncle Bill,96.0,2010,Regular
+12,3,Crackers,81.0,Street Fighters,105.0,2010,Regular
+13,3,Ram Rod,114.0,Waiver Wire,90.0,2010,Regular
+14,3,Tommy,69.0,Hall,83.0,2010,Regular
+15,4,Crusaders,100.0,Uncle Bill,38.0,2010,Regular
+16,4,Street Fighters,93.0,Bubba,114.0,2010,Regular
+17,4,Waiver Wire,46.0,Monstars,97.0,2010,Regular
+18,4,Hall,88.0,Crackers,85.0,2010,Regular
+19,4,Tommy,63.0,Ram Rod,81.0,2010,Regular
+20,5,Street Fighters,48.0,Crusaders,65.0,2010,Regular
+21,5,Uncle Bill,118.0,Waiver Wire,96.0,2010,Regular
+22,5,Bubba,74.0,Hall,69.0,2010,Regular
+23,5,Monstars,107.0,Tommy,48.0,2010,Regular
+24,5,Crackers,93.0,Ram Rod,58.0,2010,Regular
+25,6,Crusaders,125.0,Waiver Wire,96.0,2010,Regular
+26,6,Hall,97.0,Street Fighters,68.0,2010,Regular
+27,6,Tommy,95.0,Uncle Bill,87.0,2010,Regular
+28,6,Ram Rod,110.0,Bubba,59.0,2010,Regular
+29,6,Crackers,68.0,Monstars,76.0,2010,Regular
+30,7,Hall,113.0,Crusaders,90.0,2010,Regular
+31,7,Waiver Wire,67.0,Tommy,84.0,2010,Regular
+32,7,Street Fighters,65.0,Ram Rod,110.0,2010,Regular
+33,7,Uncle Bill,49.0,Crackers,95.0,2010,Regular
+34,7,Bubba,70.0,Monstars,107.0,2010,Regular
+35,8,Crusaders,73.0,Tommy,78.0,2010,Regular
+36,8,Ram Rod,70.0,Hall,85.0,2010,Regular
+37,8,Crackers,51.0,Waiver Wire,54.0,2010,Regular
+38,8,Monstars,106.0,Street Fighters,73.0,2010,Regular
+39,8,Bubba,91.0,Uncle Bill,99.0,2010,Regular
+40,9,Ram Rod,102.0,Crusaders,78.0,2010,Regular
+41,9,Tommy,76.0,Crackers,107.0,2010,Regular
+42,9,Hall,100.0,Monstars,106.0,2010,Regular
+43,9,Waiver Wire,75.0,Bubba,67.0,2010,Regular
+44,9,Street Fighters,94.0,Uncle Bill,90.0,2010,Regular
+45,10,Crusaders,93.0,Crackers,95.0,2010,Regular
+46,10,Monstars,84.0,Ram Rod,110.0,2010,Regular
+47,10,Bubba,85.0,Tommy,92.0,2010,Regular
+48,10,Uncle Bill,142.0,Hall,90.0,2010,Regular
+49,10,Street Fighters,59.0,Waiver Wire,65.0,2010,Regular
+50,11,Monstars,103.0,Crusaders,95.0,2010,Regular
+51,11,Crackers,77.0,Bubba,106.0,2010,Regular
+52,11,Ram Rod,77.0,Uncle Bill,92.0,2010,Regular
+53,11,Tommy,127.0,Street Fighters,117.0,2010,Regular
+54,11,Hall,95.0,Waiver Wire,86.0,2010,Regular
+55,12,Crusaders,66.0,Bubba,118.0,2010,Regular
+56,12,Uncle Bill,70.0,Monstars,49.0,2010,Regular
+57,12,Street Fighters,90.0,Crackers,83.0,2010,Regular
+58,12,Waiver Wire,62.0,Ram Rod,82.0,2010,Regular
+59,12,Hall,104.0,Tommy,97.0,2010,Regular
+60,13,Uncle Bill,66.0,Crusaders,89.0,2010,Regular
+61,13,Bubba,92.0,Street Fighters,101.0,2010,Regular
+62,13,Monstars,85.0,Waiver Wire,45.0,2010,Regular
+63,13,Crackers,72.0,Hall,101.0,2010,Regular
+64,13,Ram Rod,45.0,Tommy,111.0,2010,Regular
+65,14,Monstars,45.0,Ram Rod,69.0,2010,Regular
+66,14,Hall,117.0,Uncle Bill,96.0,2010,Regular
+67,14,Tommy,88.0,Crusaders,76.0,2010,Regular
+68,14,Street Fighters,77.0,Bubba,68.0,2010,Regular
+69,14,Waiver Wire,61.0,Crackers,71.0,2010,Regular
+70,15,Hall,71.0,Ram Rod,68.0,2010,Playoff
+71,15,Monstars,87.0,Uncle Bill,117.0,2010,Playoff
+72,15,Tommy,69.0,Street Fighters,87.0,2010,Playoff
+73,15,Crusaders,54.0,Crackers,69.0,2010,Playoff
+74,15,Bubba,62.0,Waiver Wire,107.0,2010,Playoff
+0,1,Crackers,85.0,Crusaders,73.0,2011,Regular
+1,1,Ram Rod,106.0,Monstars,118.0,2011,Regular
+2,1,Tommy,59.0,Bubba,71.0,2011,Regular
+3,1,Hall,79.0,Uncle Bill,126.0,2011,Regular
+4,1,Waiver Wire,140.0,Street Fighters,95.0,2011,Regular
+5,2,Crusaders,105.0,Monstars,118.0,2011,Regular
+6,2,Bubba,95.0,Crackers,131.0,2011,Regular
+7,2,Uncle Bill,114.0,Ram Rod,69.0,2011,Regular
+8,2,Street Fighters,89.0,Tommy,99.0,2011,Regular
+9,2,Waiver Wire,105.0,Hall,97.0,2011,Regular
+10,3,Bubba,70.0,Crusaders,80.0,2011,Regular
+11,3,Monstars,66.0,Uncle Bill,137.0,2011,Regular
+12,3,Crackers,87.0,Street Fighters,65.0,2011,Regular
+13,3,Ram Rod,99.0,Waiver Wire,127.0,2011,Regular
+14,3,Tommy,104.0,Hall,26.0,2011,Regular
+15,4,Crusaders,74.0,Uncle Bill,123.0,2011,Regular
+16,4,Street Fighters,87.0,Bubba,72.0,2011,Regular
+17,4,Waiver Wire,122.0,Monstars,74.0,2011,Regular
+18,4,Hall,67.0,Crackers,139.0,2011,Regular
+19,4,Tommy,107.0,Ram Rod,73.0,2011,Regular
+20,5,Street Fighters,93.0,Crusaders,79.0,2011,Regular
+21,5,Uncle Bill,88.0,Waiver Wire,100.0,2011,Regular
+22,5,Bubba,90.0,Hall,127.0,2011,Regular
+23,5,Monstars,96.0,Tommy,70.0,2011,Regular
+24,5,Crackers,117.0,Ram Rod,21.0,2011,Regular
+25,6,Crusaders,78.0,Waiver Wire,92.0,2011,Regular
+26,6,Hall,107.0,Street Fighters,105.0,2011,Regular
+27,6,Tommy,72.0,Uncle Bill,86.0,2011,Regular
+28,6,Ram Rod,60.0,Bubba,46.0,2011,Regular
+29,6,Crackers,77.0,Monstars,72.0,2011,Regular
+30,7,Hall,79.0,Crusaders,86.0,2011,Regular
+31,7,Waiver Wire,147.0,Tommy,144.0,2011,Regular
+32,7,Street Fighters,75.0,Ram Rod,54.0,2011,Regular
+33,7,Uncle Bill,38.0,Crackers,88.0,2011,Regular
+34,7,Bubba,36.0,Monstars,31.0,2011,Regular
+35,8,Crusaders,101.0,Tommy,78.0,2011,Regular
+36,8,Ram Rod,97.0,Hall,113.0,2011,Regular
+37,8,Crackers,80.0,Waiver Wire,90.0,2011,Regular
+38,8,Monstars,95.0,Street Fighters,48.0,2011,Regular
+39,8,Bubba,56.0,Uncle Bill,87.0,2011,Regular
+40,9,Ram Rod,108.0,Crusaders,69.0,2011,Regular
+41,9,Tommy,80.0,Crackers,121.0,2011,Regular
+42,9,Hall,68.0,Monstars,90.0,2011,Regular
+43,9,Waiver Wire,85.0,Bubba,87.0,2011,Regular
+44,9,Street Fighters,102.0,Uncle Bill,70.0,2011,Regular
+45,10,Crusaders,103.0,Crackers,117.0,2011,Regular
+46,10,Monstars,78.0,Ram Rod,79.0,2011,Regular
+47,10,Bubba,66.0,Tommy,112.0,2011,Regular
+48,10,Uncle Bill,70.0,Hall,43.0,2011,Regular
+49,10,Street Fighters,82.0,Waiver Wire,97.0,2011,Regular
+50,11,Monstars,95.0,Crusaders,114.0,2011,Regular
+51,11,Crackers,97.0,Bubba,83.0,2011,Regular
+52,11,Ram Rod,86.0,Uncle Bill,54.0,2011,Regular
+53,11,Tommy,94.0,Street Fighters,40.0,2011,Regular
+54,11,Hall,96.0,Waiver Wire,81.0,2011,Regular
+55,12,Crusaders,81.0,Bubba,78.0,2011,Regular
+56,12,Uncle Bill,115.0,Monstars,87.0,2011,Regular
+57,12,Street Fighters,108.0,Crackers,82.0,2011,Regular
+58,12,Waiver Wire,69.0,Ram Rod,84.0,2011,Regular
+59,12,Hall,69.0,Tommy,79.0,2011,Regular
+60,13,Uncle Bill,104.0,Crusaders,104.0,2011,Regular
+61,13,Bubba,87.0,Street Fighters,82.0,2011,Regular
+62,13,Monstars,86.0,Waiver Wire,110.0,2011,Regular
+63,13,Crackers,97.0,Hall,46.0,2011,Regular
+64,13,Ram Rod,91.0,Tommy,107.0,2011,Regular
+65,14,Crackers,122.0,Tommy,96.0,2011,Regular
+66,14,Waiver Wire,96.0,Uncle Bill,101.0,2011,Regular
+67,14,Crusaders,117.0,Monstars,95.0,2011,Regular
+68,14,Street Fighters,85.0,Ram Rod,95.0,2011,Regular
+69,14,Hall,96.0,Bubba,79.0,2011,Regular
+70,15,Crackers,69.0,Uncle Bill,128.0,2011,Playoff
+71,15,Waiver Wire,103.0,Tommy,81.0,2011,Playoff
+72,15,Crusaders,87.0,Ram Rod,83.0,2011,Playoff
+73,15,Monstars,75.0,Hall,88.0,2011,Playoff
+74,15,Street Fighters,84.0,Bubba,68.0,2011,Playoff
+0,1,Crackers,104.0,Crusaders,92.0,2012,Regular
+1,1,Ram Rod,99.0,Monstars,66.0,2012,Regular
+2,1,Tommy,76.0,Bubba,90.0,2012,Regular
+3,1,Hall,98.0,Uncle Bill,70.0,2012,Regular
+4,1,Waiver Wire,76.0,Street Fighters,82.0,2012,Regular
+5,2,Crusaders,102.0,Monstars,83.0,2012,Regular
+6,2,Bubba,73.0,Crackers,120.0,2012,Regular
+7,2,Uncle Bill,75.0,Ram Rod,72.0,2012,Regular
+8,2,Street Fighters,59.0,Tommy,92.0,2012,Regular
+9,2,Waiver Wire,70.0,Hall,49.0,2012,Regular
+10,3,Bubba,66.0,Crusaders,85.0,2012,Regular
+11,3,Monstars,70.0,Uncle Bill,76.0,2012,Regular
+12,3,Crackers,98.0,Street Fighters,90.0,2012,Regular
+13,3,Ram Rod,65.0,Waiver Wire,90.0,2012,Regular
+14,3,Tommy,63.0,Hall,73.0,2012,Regular
+15,4,Crusaders,94.0,Uncle Bill,95.0,2012,Regular
+16,4,Street Fighters,69.0,Bubba,149.0,2012,Regular
+17,4,Waiver Wire,51.0,Monstars,90.0,2012,Regular
+18,4,Hall,110.0,Crackers,94.0,2012,Regular
+19,4,Tommy,68.0,Ram Rod,72.0,2012,Regular
+20,5,Street Fighters,82.0,Crusaders,110.0,2012,Regular
+21,5,Uncle Bill,86.0,Waiver Wire,88.0,2012,Regular
+22,5,Bubba,71.0,Hall,95.0,2012,Regular
+23,5,Monstars,93.0,Tommy,62.0,2012,Regular
+24,5,Crackers,119.0,Ram Rod,86.0,2012,Regular
+25,6,Crusaders,100.0,Waiver Wire,116.0,2012,Regular
+26,6,Hall,89.0,Street Fighters,85.0,2012,Regular
+27,6,Tommy,98.0,Uncle Bill,66.0,2012,Regular
+28,6,Ram Rod,64.0,Bubba,133.0,2012,Regular
+29,6,Crackers,73.0,Monstars,90.0,2012,Regular
+30,7,Hall,76.0,Crusaders,101.0,2012,Regular
+31,7,Waiver Wire,69.0,Tommy,66.0,2012,Regular
+32,7,Street Fighters,80.0,Ram Rod,58.0,2012,Regular
+33,7,Uncle Bill,77.0,Crackers,98.0,2012,Regular
+34,7,Bubba,116.0,Monstars,109.0,2012,Regular
+35,8,Crusaders,99.0,Tommy,56.0,2012,Regular
+36,8,Ram Rod,48.0,Hall,87.0,2012,Regular
+37,8,Crackers,49.0,Waiver Wire,82.0,2012,Regular
+38,8,Monstars,92.0,Street Fighters,100.0,2012,Regular
+39,8,Bubba,91.0,Uncle Bill,84.0,2012,Regular
+40,9,Ram Rod,90.0,Crusaders,109.0,2012,Regular
+41,9,Tommy,50.0,Crackers,73.0,2012,Regular
+42,9,Hall,132.0,Monstars,114.0,2012,Regular
+43,9,Waiver Wire,83.0,Bubba,99.0,2012,Regular
+44,9,Street Fighters,74.0,Uncle Bill,65.0,2012,Regular
+45,10,Crusaders,65.0,Crackers,96.0,2012,Regular
+46,10,Monstars,80.0,Ram Rod,97.0,2012,Regular
+47,10,Bubba,79.0,Tommy,83.0,2012,Regular
+48,10,Uncle Bill,87.0,Hall,81.0,2012,Regular
+49,10,Street Fighters,87.0,Waiver Wire,85.0,2012,Regular
+50,11,Monstars,85.0,Crusaders,67.0,2012,Regular
+51,11,Crackers,87.0,Bubba,62.0,2012,Regular
+52,11,Ram Rod,81.0,Uncle Bill,83.0,2012,Regular
+53,11,Tommy,63.0,Street Fighters,14.0,2012,Regular
+54,11,Hall,86.0,Waiver Wire,89.0,2012,Regular
+55,12,Crusaders,76.0,Bubba,51.0,2012,Regular
+56,12,Uncle Bill,108.0,Monstars,88.0,2012,Regular
+57,12,Street Fighters,56.0,Crackers,84.0,2012,Regular
+58,12,Waiver Wire,110.0,Ram Rod,100.0,2012,Regular
+59,12,Hall,86.0,Tommy,109.0,2012,Regular
+60,13,Uncle Bill,106.0,Crusaders,88.0,2012,Regular
+61,13,Bubba,89.0,Street Fighters,55.0,2012,Regular
+62,13,Monstars,122.0,Waiver Wire,109.0,2012,Regular
+63,13,Crackers,62.0,Hall,92.0,2012,Regular
+64,13,Ram Rod,61.0,Tommy,95.0,2012,Regular
+65,14,Crackers,68.0,Crusaders,58.0,2012,Regular
+66,14,Waiver Wire,84.0,Hall,110.0,2012,Regular
+67,14,Bubba,102.0,Uncle Bill,64.0,2012,Regular
+68,14,Tommy,77.0,Street Fighters,57.0,2012,Regular
+69,14,Monstars,91.0,Ram Rod,131.0,2012,Regular
+70,15,Crackers,95.0,Hall,76.0,2012,Playoff
+71,15,Waiver Wire,111.0,Crusaders,44.0,2012,Playoff
+72,15,Bubba,102.0,Tommy,86.0,2012,Playoff
+73,15,Uncle Bill,75.0,Ram Rod,94.0,2012,Playoff
+74,15,Street Fighters,92.0,Monstars,77.0,2012,Playoff
+0,1,Crackers,115.98,Crusaders,105.38,2013,Regular
+1,1,Hulkamaniacs,105.58,Monstars,85.46,2013,Regular
+2,1,Afternoon Delights,126.02,Bubba,157.88,2013,Regular
+3,1,Ram Rod,89.76,Uncle Bill,74.52,2013,Regular
+4,1,Tommy,82.6,Street Fighters,74.98,2013,Regular
+5,1,Hall,84.82,Waiver Wire,97.12,2013,Regular
+6,2,Crusaders,77.12,Monstars,92.6,2013,Regular
+7,2,Bubba,83.88,Crackers,55.68,2013,Regular
+8,2,Uncle Bill,79.5,Hulkamaniacs,115.22,2013,Regular
+9,2,Street Fighters,60.98,Afternoon Delights,119.44,2013,Regular
+10,2,Waiver Wire,93.0,Ram Rod,108.46,2013,Regular
+11,2,Hall,101.62,Tommy,121.72,2013,Regular
+12,3,Bubba,127.56,Crusaders,90.62,2013,Regular
+13,3,Monstars,79.44,Uncle Bill,56.26,2013,Regular
+14,3,Crackers,50.2,Street Fighters,82.28,2013,Regular
+15,3,Hulkamaniacs,100.2,Waiver Wire,95.56,2013,Regular
+16,3,Afternoon Delights,106.68,Hall,107.1,2013,Regular
+17,3,Ram Rod,81.14,Tommy,81.74,2013,Regular
+18,4,Crusaders,92.72,Uncle Bill,120.24,2013,Regular
+19,4,Street Fighters,89.22,Bubba,102.88,2013,Regular
+20,4,Waiver Wire,94.72,Monstars,93.08,2013,Regular
+21,4,Hall,112.04,Crackers,98.38,2013,Regular
+22,4,Tommy,110.82,Hulkamaniacs,94.28,2013,Regular
+23,4,Ram Rod,90.94,Afternoon Delights,121.68,2013,Regular
+24,5,Street Fighters,100.82,Crusaders,73.0,2013,Regular
+25,5,Uncle Bill,86.24,Waiver Wire,80.26,2013,Regular
+26,5,Bubba,103.26,Hall,152.04,2013,Regular
+27,5,Monstars,79.78,Tommy,73.3,2013,Regular
+28,5,Crackers,102.84,Ram Rod,66.16,2013,Regular
+29,5,Hulkamaniacs,86.68,Afternoon Delights,97.5,2013,Regular
+30,6,Crusaders,55.32,Waiver Wire,84.7,2013,Regular
+31,6,Hall,55.2,Street Fighters,77.84,2013,Regular
+32,6,Tommy,97.78,Uncle Bill,72.18,2013,Regular
+33,6,Ram Rod,97.58,Bubba,108.6,2013,Regular
+34,6,Afternoon Delights,79.98,Monstars,72.24,2013,Regular
+35,6,Hulkamaniacs,114.32,Crackers,85.38,2013,Regular
+36,7,Hall,78.98,Crusaders,39.3,2013,Regular
+37,7,Waiver Wire,92.9,Tommy,76.06,2013,Regular
+38,7,Street Fighters,96.56,Ram Rod,92.32,2013,Regular
+39,7,Uncle Bill,79.8,Afternoon Delights,104.52,2013,Regular
+40,7,Monstars,82.42,Crackers,62.92,2013,Regular
+41,7,Bubba,96.24,Hulkamaniacs,96.08,2013,Regular
+42,8,Crusaders,82.8,Tommy,37.9,2013,Regular
+43,8,Ram Rod,124.44,Hall,110.24,2013,Regular
+44,8,Afternoon Delights,100.46,Waiver Wire,62.1,2013,Regular
+45,8,Hulkamaniacs,116.72,Street Fighters,78.68,2013,Regular
+46,8,Crackers,64.06,Uncle Bill,56.14,2013,Regular
+47,8,Monstars,53.88,Bubba,97.16,2013,Regular
+48,9,Ram Rod,77.66,Crusaders,146.44,2013,Regular
+49,9,Tommy,108.46,Afternoon Delights,129.34,2013,Regular
+50,9,Hall,146.48,Hulkamaniacs,48.5,2013,Regular
+51,9,Waiver Wire,61.48,Crackers,82.02,2013,Regular
+52,9,Street Fighters,67.48,Monstars,83.64,2013,Regular
+53,9,Uncle Bill,73.74,Bubba,73.52,2013,Regular
+54,10,Crusaders,74.02,Afternoon Delights,95.82,2013,Regular
+55,10,Hulkamaniacs,90.26,Ram Rod,79.1,2013,Regular
+56,10,Crackers,80.66,Tommy,116.96,2013,Regular
+57,10,Monstars,93.04,Hall,75.22,2013,Regular
+58,10,Bubba,86.0,Waiver Wire,80.56,2013,Regular
+59,10,Uncle Bill,54.52,Street Fighters,88.38,2013,Regular
+60,11,Hulkamaniacs,92.68,Crusaders,92.92,2013,Regular
+61,11,Afternoon Delights,82.4,Crackers,83.12,2013,Regular
+62,11,Ram Rod,95.78,Monstars,92.66,2013,Regular
+63,11,Tommy,107.66,Bubba,70.22,2013,Regular
+64,11,Hall,90.8,Uncle Bill,60.64,2013,Regular
+65,11,Waiver Wire,99.38,Street Fighters,62.8,2013,Regular
+66,12,Crusaders,37.0,Crackers,87.7,2013,Regular
+67,12,Monstars,84.62,Hulkamaniacs,95.78,2013,Regular
+68,12,Bubba,63.0,Afternoon Delights,65.52,2013,Regular
+69,12,Uncle Bill,67.66,Ram Rod,89.52,2013,Regular
+70,12,Street Fighters,71.52,Tommy,86.56,2013,Regular
+71,12,Waiver Wire,112.58,Hall,99.26,2013,Regular
+72,13,Monstars,85.28,Crusaders,81.88,2013,Regular
+73,13,Crackers,124.1,Bubba,101.42,2013,Regular
+74,13,Hulkamaniacs,113.5,Uncle Bill,79.64,2013,Regular
+75,13,Afternoon Delights,104.8,Street Fighters,114.58,2013,Regular
+76,13,Ram Rod,91.04,Waiver Wire,92.68,2013,Regular
+77,13,Tommy,78.72,Hall,77.5,2013,Regular
+78,14,Afternoon Delights,107.32,Bubba,123.08,2013,Regular
+79,14,Tommy,84.9,Hulkamaniacs,63.34,2013,Regular
+80,14,Waiver Wire,104.56,Monstars,71.36,2013,Regular
+81,14,Crackers,108.9,Street Fighters,96.92,2013,Regular
+82,14,Hall,109.56,Ram Rod,65.64,2013,Regular
+83,14,Uncle Bill,61.92,Crusaders,90.66,2013,Regular
+84,15,Tommy,92.22,Bubba,86.76,2013,Playoff
+85,15,Afternoon Delights,99.04,Hulkamaniacs,116.0,2013,Playoff
+86,15,Waiver Wire,68.74,Crackers,97.4,2013,Playoff
+87,15,Monstars,83.38,Hall,116.22,2013,Playoff
+88,15,Street Fighters,100.02,Crusaders,79.22,2013,Playoff
+89,15,Ram Rod,51.5,Uncle Bill,86.86,2013,Playoff
+0,1,Crackers,93.36,Crusaders,113.14,2014,Regular
+1,1,Hulkamaniacs,71.62,Monstars,108.6,2014,Regular
+2,1,Afternoon Delights,88.86,Bubba,81.64,2014,Regular
+3,1,Ram Rod,81.16,Uncle Bill,87.86,2014,Regular
+4,1,Tommy,95.32,Street Fighters,92.28,2014,Regular
+5,1,Hall,52.04,Waiver Wire,100.5,2014,Regular
+6,2,Crusaders,63.42,Monstars,63.58,2014,Regular
+7,2,Bubba,73.64,Crackers,129.44,2014,Regular
+8,2,Uncle Bill,112.68,Hulkamaniacs,64.14,2014,Regular
+9,2,Street Fighters,64.44,Afternoon Delights,97.42,2014,Regular
+10,2,Waiver Wire,99.94,Ram Rod,49.86,2014,Regular
+11,2,Hall,98.24,Tommy,76.98,2014,Regular
+12,3,Bubba,81.04,Crusaders,91.9,2014,Regular
+13,3,Monstars,101.9,Uncle Bill,52.02,2014,Regular
+14,3,Crackers,109.08,Street Fighters,76.7,2014,Regular
+15,3,Hulkamaniacs,85.14,Waiver Wire,89.7,2014,Regular
+16,3,Afternoon Delights,90.0,Hall,94.98,2014,Regular
+17,3,Ram Rod,59.16,Tommy,108.12,2014,Regular
+18,4,Crusaders,108.12,Uncle Bill,93.3,2014,Regular
+19,4,Street Fighters,87.3,Bubba,99.78,2014,Regular
+20,4,Waiver Wire,83.08,Monstars,105.72,2014,Regular
+21,4,Hall,89.48,Crackers,108.38,2014,Regular
+22,4,Tommy,88.3,Hulkamaniacs,92.82,2014,Regular
+23,4,Ram Rod,110.76,Afternoon Delights,96.82,2014,Regular
+24,5,Street Fighters,62.78,Crusaders,96.94,2014,Regular
+25,5,Uncle Bill,101.26,Waiver Wire,97.9,2014,Regular
+26,5,Bubba,93.22,Hall,103.66,2014,Regular
+27,5,Monstars,51.88,Tommy,91.74,2014,Regular
+28,5,Crackers,85.64,Ram Rod,76.92,2014,Regular
+29,5,Hulkamaniacs,89.24,Afternoon Delights,88.56,2014,Regular
+30,6,Crusaders,128.12,Waiver Wire,92.24,2014,Regular
+31,6,Hall,115.6,Street Fighters,75.72,2014,Regular
+32,6,Tommy,76.54,Uncle Bill,66.38,2014,Regular
+33,6,Ram Rod,63.22,Bubba,88.62,2014,Regular
+34,6,Afternoon Delights,107.34,Monstars,84.6,2014,Regular
+35,6,Hulkamaniacs,76.84,Crackers,94.56,2014,Regular
+36,7,Hall,92.66,Crusaders,97.92,2014,Regular
+37,7,Waiver Wire,64.02,Tommy,125.12,2014,Regular
+38,7,Street Fighters,48.7,Ram Rod,71.04,2014,Regular
+39,7,Uncle Bill,60.42,Afternoon Delights,78.42,2014,Regular
+40,7,Bubba,74.5,Hulkamaniacs,70.02,2014,Regular
+41,7,Monstars,68.76,Crackers,86.7,2014,Regular
+42,8,Crusaders,107.32,Tommy,73.66,2014,Regular
+43,8,Ram Rod,132.16,Hall,108.56,2014,Regular
+44,8,Afternoon Delights,99.38,Waiver Wire,64.5,2014,Regular
+45,8,Hulkamaniacs,36.34,Street Fighters,91.24,2014,Regular
+46,8,Crackers,128.12,Uncle Bill,81.14,2014,Regular
+47,8,Monstars,116.2,Bubba,72.68,2014,Regular
+48,9,Ram Rod,101.7,Crusaders,71.08,2014,Regular
+49,9,Tommy,80.28,Afternoon Delights,108.56,2014,Regular
+50,9,Hall,70.74,Hulkamaniacs,63.32,2014,Regular
+51,9,Waiver Wire,108.92,Crackers,132.96,2014,Regular
+52,9,Street Fighters,70.06,Monstars,133.76,2014,Regular
+53,9,Uncle Bill,82.52,Bubba,35.82,2014,Regular
+54,10,Crusaders,115.0,Afternoon Delights,93.28,2014,Regular
+55,10,Hulkamaniacs,90.86,Ram Rod,66.32,2014,Regular
+56,10,Crackers,132.1,Tommy,68.68,2014,Regular
+57,10,Monstars,64.44,Hall,104.84,2014,Regular
+58,10,Bubba,84.6,Waiver Wire,108.04,2014,Regular
+59,10,Uncle Bill,74.9,Street Fighters,92.98,2014,Regular
+60,11,Hulkamaniacs,69.12,Crusaders,86.32,2014,Regular
+61,11,Afternoon Delights,88.88,Crackers,99.14,2014,Regular
+62,11,Ram Rod,85.68,Monstars,101.32,2014,Regular
+63,11,Tommy,47.2,Bubba,115.72,2014,Regular
+64,11,Hall,73.82,Uncle Bill,49.76,2014,Regular
+65,11,Waiver Wire,81.68,Street Fighters,82.44,2014,Regular
+66,12,Crusaders,115.74,Crackers,110.76,2014,Regular
+67,12,Monstars,84.02,Hulkamaniacs,61.22,2014,Regular
+68,12,Bubba,103.66,Afternoon Delights,76.9,2014,Regular
+69,12,Uncle Bill,90.38,Ram Rod,111.26,2014,Regular
+70,12,Street Fighters,99.48,Tommy,79.0,2014,Regular
+71,12,Waiver Wire,104.42,Hall,103.1,2014,Regular
+72,13,Monstars,138.7,Crusaders,115.84,2014,Regular
+73,13,Crackers,97.52,Bubba,76.7,2014,Regular
+74,13,Hulkamaniacs,100.9,Uncle Bill,69.46,2014,Regular
+75,13,Afternoon Delights,95.9,Street Fighters,73.48,2014,Regular
+76,13,Ram Rod,67.5,Waiver Wire,127.7,2014,Regular
+77,13,Tommy,98.78,Hall,84.36,2014,Regular
+78,14,Crackers,103.08,BYE,BYE,2014,Regular
+79,14,Hall,125.2,Afternoon Delights,123.74,2014,Regular
+80,14,Monstars,111.26,Tommy,81.3,2014,Regular
+81,14,Crusaders,127.26,BYE,BYE,2014,Regular
+82,14,Waiver Wire,86.46,Bubba,103.04,2014,Regular
+83,14,Ram Rod,95.78,Uncle Bill,46.92,2014,Regular
+84,14,Street Fighters,68.34,Hulkamaniacs,97.48,2014,Regular
+85,15,Crackers,84.7,Hall,92.8,2014,Playoff
+86,15,Crusaders,97.08,Monstars,83.48,2014,Playoff
+87,15,Afternoon Delights,63.26,Tommy,108.0,2014,Playoff
+88,15,Bubba,70.58,Ram Rod,82.1,2014,Playoff
+89,15,Waiver Wire,94.84,Hulkamaniacs,81.24,2014,Playoff
+90,15,Uncle Bill,60.62,Street Fighters,47.48,2014,Playoff
+91,16,Crusaders,92.54,Hall,93.62,2014,Playoff
+92,16,Crackers,65.52,Monstars,84.06,2014,Playoff
+93,16,Afternoon Delights,82.2,Tommy,82.42,2014,Playoff
+94,16,Waiver Wire,85.5,Ram Rod,99.28,2014,Playoff
+95,16,Bubba,93.44,Uncle Bill,55.74,2014,Playoff
+96,16,Street Fighters,67.26,Hulkamaniacs,120.04,2014,Playoff
+0,1,Hulkamaniacs,86.74,Hall,117.34,2015,Regular
+1,1,Tommy,105.56,Bubba,61.54,2015,Regular
+2,1,Farmer Fran,77.74,Waiver Wire,89.04,2015,Regular
+3,1,Uncle Bill,72.64,Monstars,97.72,2015,Regular
+4,1,Crackers,64.38,Afternoon Delights,86.22,2015,Regular
+5,1,Street Fighters,118.06,Crusaders,99.2,2015,Regular
+6,2,Hall,45.9,Bubba,68.06,2015,Regular
+7,2,Waiver Wire,64.84,Hulkamaniacs,86.94,2015,Regular
+8,2,Monstars,94.04,Tommy,74.46,2015,Regular
+9,2,Afternoon Delights,104.62,Farmer Fran,104.76,2015,Regular
+10,2,Crusaders,101.2,Uncle Bill,88.16,2015,Regular
+11,2,Street Fighters,68.88,Crackers,56.0,2015,Regular
+12,3,Waiver Wire,66.9,Hall,71.18,2015,Regular
+13,3,Bubba,66.18,Monstars,94.22,2015,Regular
+14,3,Hulkamaniacs,107.48,Afternoon Delights,160.08,2015,Regular
+15,3,Tommy,126.52,Crusaders,79.3,2015,Regular
+16,3,Farmer Fran,72.08,Street Fighters,86.28,2015,Regular
+17,3,Uncle Bill,128.24,Crackers,100.7,2015,Regular
+18,4,Hall,95.92,Monstars,64.8,2015,Regular
+19,4,Afternoon Delights,62.56,Waiver Wire,73.68,2015,Regular
+20,4,Crusaders,68.66,Bubba,71.42,2015,Regular
+21,4,Street Fighters,73.84,Hulkamaniacs,89.64,2015,Regular
+22,4,Crackers,84.68,Tommy,51.36,2015,Regular
+23,4,Uncle Bill,66.08,Farmer Fran,91.68,2015,Regular
+24,5,Afternoon Delights,67.36,Hall,112.42,2015,Regular
+25,5,Monstars,71.7,Crusaders,83.9,2015,Regular
+26,5,Waiver Wire,82.62,Street Fighters,108.8,2015,Regular
+27,5,Bubba,67.14,Crackers,102.3,2015,Regular
+28,5,Hulkamaniacs,90.82,Uncle Bill,119.72,2015,Regular
+29,5,Tommy,78.34,Farmer Fran,117.84,2015,Regular
+30,6,Hall,118.04,Crusaders,105.58,2015,Regular
+31,6,Street Fighters,106.52,Afternoon Delights,76.0,2015,Regular
+32,6,Crackers,93.38,Monstars,88.58,2015,Regular
+33,6,Uncle Bill,92.1,Waiver Wire,76.24,2015,Regular
+34,6,Farmer Fran,70.56,Bubba,62.7,2015,Regular
+35,6,Tommy,88.8,Hulkamaniacs,96.8,2015,Regular
+36,7,Street Fighters,88.84,Hall,95.08,2015,Regular
+37,7,Crusaders,90.1,Crackers,95.12,2015,Regular
+38,7,Afternoon Delights,92.34,Uncle Bill,80.2,2015,Regular
+39,7,Monstars,98.5,Farmer Fran,62.6,2015,Regular
+40,7,Waiver Wire,94.8,Tommy,75.14,2015,Regular
+41,7,Bubba,80.48,Hulkamaniacs,110.74,2015,Regular
+42,8,Hall,95.8,Crackers,81.64,2015,Regular
+43,8,Uncle Bill,120.36,Street Fighters,85.34,2015,Regular
+44,8,Farmer Fran,136.7,Crusaders,109.8,2015,Regular
+45,8,Tommy,71.48,Afternoon Delights,83.98,2015,Regular
+46,8,Hulkamaniacs,67.28,Monstars,110.84,2015,Regular
+47,8,Bubba,47.4,Waiver Wire,106.22,2015,Regular
+48,9,Uncle Bill,97.28,Hall,75.74,2015,Regular
+49,9,Crackers,82.08,Farmer Fran,83.52,2015,Regular
+50,9,Street Fighters,101.5,Tommy,90.32,2015,Regular
+51,9,Crusaders,115.08,Hulkamaniacs,116.46,2015,Regular
+52,9,Afternoon Delights,112.54,Bubba,74.44,2015,Regular
+53,9,Monstars,75.96,Waiver Wire,113.48,2015,Regular
+54,10,Hall,64.82,Farmer Fran,77.34,2015,Regular
+55,10,Tommy,78.12,Uncle Bill,88.92,2015,Regular
+56,10,Hulkamaniacs,78.38,Crackers,87.14,2015,Regular
+57,10,Bubba,40.8,Street Fighters,103.38,2015,Regular
+58,10,Waiver Wire,67.18,Crusaders,76.76,2015,Regular
+59,10,Monstars,86.06,Afternoon Delights,77.72,2015,Regular
+60,11,Tommy,91.78,Hall,88.18,2015,Regular
+61,11,Farmer Fran,91.68,Hulkamaniacs,74.88,2015,Regular
+62,11,Uncle Bill,95.38,Bubba,77.72,2015,Regular
+63,11,Crackers,61.56,Waiver Wire,86.04,2015,Regular
+64,11,Street Fighters,81.66,Monstars,61.88,2015,Regular
+65,11,Crusaders,58.24,Afternoon Delights,80.82,2015,Regular
+66,12,Hall,93.86,Hulkamaniacs,86.28,2015,Regular
+67,12,Bubba,122.24,Tommy,105.08,2015,Regular
+68,12,Waiver Wire,68.02,Farmer Fran,75.94,2015,Regular
+69,12,Monstars,99.1,Uncle Bill,75.24,2015,Regular
+70,12,Afternoon Delights,111.3,Crackers,86.14,2015,Regular
+71,12,Crusaders,85.66,Street Fighters,71.2,2015,Regular
+72,13,Bubba,63.64,Hall,94.28,2015,Regular
+73,13,Hulkamaniacs,60.9,Waiver Wire,128.14,2015,Regular
+74,13,Tommy,63.82,Monstars,127.98,2015,Regular
+75,13,Farmer Fran,97.06,Afternoon Delights,114.46,2015,Regular
+76,13,Uncle Bill,77.28,Crusaders,83.88,2015,Regular
+77,13,Crackers,91.58,Street Fighters,149.32,2015,Regular
+78,14,Street Fighters,71.2,BYE,BYE,2015,Regular
+79,14,Afternoon Delights,101.52,Monstars,87.44,2015,Regular
+80,14,Farmer Fran,74.58,Uncle Bill,85.5,2015,Regular
+81,14,Hall,105.0,BYE,BYE,2015,Regular
+82,14,Waiver Wire,97.6,Crusaders,86.78,2015,Regular
+83,14,Hulkamaniacs,67.2,Crackers,99.68,2015,Regular
+84,14,Tommy,87.02,Bubba,55.44,2015,Regular
+85,15,Street Fighters,99.04,Afternoon Delights,118.2,2015,Playoff
+86,15,Hall,138.38,Uncle Bill,80.66,2015,Playoff
+87,15,Farmer Fran,115.5,Monstars,98.48,2015,Playoff
+88,15,Waiver Wire,116.6,Crackers,74.1,2015,Playoff
+89,15,Crusaders,86.04,Tommy,48.96,2015,Playoff
+90,15,Hulkamaniacs,101.96,Bubba,60.04,2015,Playoff
+91,16,Hall,145.12,Afternoon Delights,129.66,2015,Playoff
+92,16,Street Fighters,64.76,Uncle Bill,60.9,2015,Playoff
+93,16,Farmer Fran,54.7,Monstars,69.74,2015,Playoff
+94,16,Waiver Wire,66.38,Crusaders,83.78,2015,Playoff
+95,16,Hulkamaniacs,72.14,Crackers,38.96,2015,Playoff
+96,16,Tommy,55.04,Bubba,69.06,2015,Playoff
+0,1,Hulkamaniacs,132.04,Hall,114.2,2016,Regular
+1,1,Tommy,116.2,Bubba,79.1,2016,Regular
+2,1,Farmer Fran,84.66,Waiver Wire,109.08,2016,Regular
+3,1,Uncle Bill,108.42,Monstars,76.46,2016,Regular
+4,1,Crackers,107.86,Afternoon Delights,107.6,2016,Regular
+5,1,Street Fighters,106.38,Crusaders,96.02,2016,Regular
+6,2,Hall,98.36,Bubba,112.96,2016,Regular
+7,2,Waiver Wire,85.62,Hulkamaniacs,106.16,2016,Regular
+8,2,Monstars,135.82,Tommy,83.98,2016,Regular
+9,2,Afternoon Delights,79.0,Farmer Fran,108.86,2016,Regular
+10,2,Crusaders,67.62,Uncle Bill,69.46,2016,Regular
+11,2,Street Fighters,134.3,Crackers,86.32,2016,Regular
+12,3,Waiver Wire,142.5,Hall,110.46,2016,Regular
+13,3,Bubba,97.28,Monstars,109.78,2016,Regular
+14,3,Hulkamaniacs,66.88,Afternoon Delights,131.5,2016,Regular
+15,3,Tommy,55.44,Crusaders,137.94,2016,Regular
+16,3,Farmer Fran,119.06,Street Fighters,64.84,2016,Regular
+17,3,Uncle Bill,89.52,Crackers,112.1,2016,Regular
+18,4,Hall,109.38,Monstars,112.5,2016,Regular
+19,4,Afternoon Delights,69.82,Waiver Wire,86.44,2016,Regular
+20,4,Crusaders,106.78,Bubba,98.2,2016,Regular
+21,4,Street Fighters,127.04,Hulkamaniacs,99.12,2016,Regular
+22,4,Crackers,73.68,Tommy,99.16,2016,Regular
+23,4,Uncle Bill,105.22,Farmer Fran,91.66,2016,Regular
+24,5,Afternoon Delights,108.9,Hall,110.6,2016,Regular
+25,5,Monstars,117.34,Crusaders,109.54,2016,Regular
+26,5,Waiver Wire,114.58,Street Fighters,143.86,2016,Regular
+27,5,Bubba,91.8,Crackers,90.36,2016,Regular
+28,5,Hulkamaniacs,98.7,Uncle Bill,79.9,2016,Regular
+29,5,Tommy,88.98,Farmer Fran,120.38,2016,Regular
+30,6,Hall,98.94,Crusaders,148.24,2016,Regular
+31,6,Street Fighters,95.68,Afternoon Delights,108.9,2016,Regular
+32,6,Crackers,107.76,Monstars,88.98,2016,Regular
+33,6,Uncle Bill,63.3,Waiver Wire,96.3,2016,Regular
+34,6,Farmer Fran,68.9,Bubba,76.46,2016,Regular
+35,6,Tommy,87.08,Hulkamaniacs,115.12,2016,Regular
+36,7,Street Fighters,85.84,Hall,69.44,2016,Regular
+37,7,Crusaders,118.28,Crackers,108.14,2016,Regular
+38,7,Afternoon Delights,102.94,Uncle Bill,77.64,2016,Regular
+39,7,Monstars,107.06,Farmer Fran,106.26,2016,Regular
+40,7,Waiver Wire,61.62,Tommy,84.82,2016,Regular
+41,7,Bubba,54.74,Hulkamaniacs,148.22,2016,Regular
+42,8,Hall,79.58,Crackers,123.74,2016,Regular
+43,8,Uncle Bill,63.82,Street Fighters,109.08,2016,Regular
+44,8,Farmer Fran,91.5,Crusaders,90.1,2016,Regular
+45,8,Tommy,93.4,Afternoon Delights,84.3,2016,Regular
+46,8,Hulkamaniacs,106.06,Monstars,87.08,2016,Regular
+47,8,Bubba,102.64,Waiver Wire,99.72,2016,Regular
+48,9,Uncle Bill,96.56,Hall,121.58,2016,Regular
+49,9,Crackers,114.48,Farmer Fran,124.44,2016,Regular
+50,9,Street Fighters,82.0,Tommy,106.74,2016,Regular
+51,9,Crusaders,98.12,Hulkamaniacs,107.04,2016,Regular
+52,9,Afternoon Delights,84.56,Bubba,108.66,2016,Regular
+53,9,Monstars,75.8,Waiver Wire,120.56,2016,Regular
+54,10,Hall,108.7,Farmer Fran,111.98,2016,Regular
+55,10,Tommy,139.7,Uncle Bill,108.58,2016,Regular
+56,10,Hulkamaniacs,96.24,Crackers,102.54,2016,Regular
+57,10,Bubba,106.52,Street Fighters,111.06,2016,Regular
+58,10,Waiver Wire,75.58,Crusaders,75.24,2016,Regular
+59,10,Monstars,118.24,Afternoon Delights,71.12,2016,Regular
+60,11,Tommy,89.0,Hall,99.58,2016,Regular
+61,11,Farmer Fran,85.5,Hulkamaniacs,62.58,2016,Regular
+62,11,Uncle Bill,98.8,Bubba,88.48,2016,Regular
+63,11,Crackers,96.84,Waiver Wire,95.68,2016,Regular
+64,11,Street Fighters,121.44,Monstars,79.88,2016,Regular
+65,11,Crusaders,118.1,Afternoon Delights,74.72,2016,Regular
+66,12,Hall,90.84,Hulkamaniacs,71.56,2016,Regular
+67,12,Bubba,114.64,Tommy,88.64,2016,Regular
+68,12,Waiver Wire,104.56,Farmer Fran,89.3,2016,Regular
+69,12,Monstars,85.44,Uncle Bill,134.96,2016,Regular
+70,12,Afternoon Delights,82.18,Crackers,130.72,2016,Regular
+71,12,Crusaders,86.6,Street Fighters,101.3,2016,Regular
+72,13,Bubba,103.56,Hall,99.54,2016,Regular
+73,13,Hulkamaniacs,139.4,Waiver Wire,95.08,2016,Regular
+74,13,Tommy,105.92,Monstars,82.3,2016,Regular
+75,13,Farmer Fran,96.9,Afternoon Delights,92.94,2016,Regular
+76,13,Uncle Bill,95.34,Crusaders,65.24,2016,Regular
+77,13,Crackers,89.36,Street Fighters,103.16,2016,Regular
+78,14,Street Fighters,95.0,BYE,BYE,2016,Regular
+79,14,Crackers,140.84,Waiver Wire,71.48,2016,Regular
+80,14,Farmer Fran,49.46,Tommy,83.54,2016,Regular
+81,14,Hulkamaniacs,72.8,BYE,BYE,2016,Regular
+82,14,Bubba,41.8,Monstars,71.2,2016,Regular
+83,14,Uncle Bill,93.96,Crusaders,67.88,2016,Regular
+84,14,Hall,89.18,Afternoon Delights,71.42,2016,Regular
+85,15,Street Fighters,69.06,Crackers,66.88,2016,Playoff
+86,15,Hulkamaniacs,130.64,Tommy,95.6,2016,Playoff
+87,15,Farmer Fran,51.28,Waiver Wire,114.74,2016,Playoff
+88,15,Monstars,85.9,Uncle Bill,71.9,2016,Playoff
+89,15,Bubba,65.54,Hall,92.98,2016,Playoff
+90,15,Crusaders,104.46,Afternoon Delights,69.72,2016,Playoff
+91,16,Street Fighters,90.38,Hulkamaniacs,93.68,2016,Playoff
+92,16,Crackers,114.58,Tommy,98.32,2016,Playoff
+93,16,Farmer Fran,101.88,Waiver Wire,68.38,2016,Playoff
+94,16,Monstars,69.52,Hall,136.7,2016,Playoff
+95,16,Uncle Bill,98.5,Crusaders,59.56,2016,Playoff
+96,16,Bubba,134.56,Afternoon Delights,84.1,2016,Playoff
+0,1,Hulkamaniacs,81.62,Hall,106.44,2017,Regular
+1,1,Tommy,82.78,Bubba,67.38,2017,Regular
+2,1,Farmer Fran,85.54,Waiver Wire,101.0,2017,Regular
+3,1,Uncle Bill,64.74,Monstars,83.46,2017,Regular
+4,1,Crackers,90.34,Afternoon Delights,99.84,2017,Regular
+5,1,Street Fighters,93.48,Crusaders,77.72,2017,Regular
+6,2,Hall,105.4,Bubba,120.88,2017,Regular
+7,2,Waiver Wire,81.26,Hulkamaniacs,92.88,2017,Regular
+8,2,Monstars,78.46,Tommy,94.26,2017,Regular
+9,2,Afternoon Delights,99.02,Farmer Fran,83.42,2017,Regular
+10,2,Crusaders,61.22,Uncle Bill,116.54,2017,Regular
+11,2,Street Fighters,97.0,Crackers,67.88,2017,Regular
+12,3,Waiver Wire,117.9,Hall,108.3,2017,Regular
+13,3,Bubba,114.02,Monstars,70.86,2017,Regular
+14,3,Hulkamaniacs,113.46,Afternoon Delights,103.32,2017,Regular
+15,3,Tommy,74.54,Crusaders,155.02,2017,Regular
+16,3,Farmer Fran,101.38,Street Fighters,87.22,2017,Regular
+17,3,Uncle Bill,86.0,Crackers,82.76,2017,Regular
+18,4,Hall,98.64,Monstars,61.66,2017,Regular
+19,4,Afternoon Delights,104.86,Waiver Wire,106.8,2017,Regular
+20,4,Crusaders,126.0,Bubba,81.28,2017,Regular
+21,4,Street Fighters,76.02,Hulkamaniacs,75.96,2017,Regular
+22,4,Crackers,68.58,Tommy,58.78,2017,Regular
+23,4,Uncle Bill,114.92,Farmer Fran,101.28,2017,Regular
+24,5,Afternoon Delights,88.84,Hall,104.56,2017,Regular
+25,5,Monstars,93.26,Crusaders,81.32,2017,Regular
+26,5,Waiver Wire,78.22,Street Fighters,76.64,2017,Regular
+27,5,Bubba,65.62,Crackers,121.44,2017,Regular
+28,5,Hulkamaniacs,67.96,Uncle Bill,108.72,2017,Regular
+29,5,Tommy,114.16,Farmer Fran,141.8,2017,Regular
+30,6,Hall,95.18,Crusaders,80.06,2017,Regular
+31,6,Street Fighters,85.94,Afternoon Delights,87.32,2017,Regular
+32,6,Crackers,93.52,Monstars,66.54,2017,Regular
+33,6,Uncle Bill,94.84,Waiver Wire,132.2,2017,Regular
+34,6,Farmer Fran,90.96,Bubba,82.98,2017,Regular
+35,6,Tommy,93.98,Hulkamaniacs,74.58,2017,Regular
+36,7,Street Fighters,147.78,Hall,87.82,2017,Regular
+37,7,Crusaders,127.86,Crackers,77.52,2017,Regular
+38,7,Afternoon Delights,74.98,Uncle Bill,71.74,2017,Regular
+39,7,Monstars,88.58,Farmer Fran,52.94,2017,Regular
+40,7,Waiver Wire,74.92,Tommy,76.82,2017,Regular
+41,7,Bubba,87.16,Hulkamaniacs,104.26,2017,Regular
+42,8,Hall,89.98,Crackers,103.98,2017,Regular
+43,8,Uncle Bill,77.66,Street Fighters,111.42,2017,Regular
+44,8,Farmer Fran,87.56,Crusaders,111.02,2017,Regular
+45,8,Tommy,73.94,Afternoon Delights,137.58,2017,Regular
+46,8,Hulkamaniacs,82.82,Monstars,104.42,2017,Regular
+47,8,Bubba,85.82,Waiver Wire,93.72,2017,Regular
+48,9,Uncle Bill,88.62,Hall,87.12,2017,Regular
+49,9,Crackers,73.76,Farmer Fran,63.98,2017,Regular
+50,9,Street Fighters,82.5,Tommy,92.06,2017,Regular
+51,9,Crusaders,116.16,Hulkamaniacs,79.94,2017,Regular
+52,9,Afternoon Delights,98.68,Bubba,77.02,2017,Regular
+53,9,Monstars,52.84,Waiver Wire,68.68,2017,Regular
+54,10,Hall,94.96,Farmer Fran,102.56,2017,Regular
+55,10,Tommy,77.42,Uncle Bill,74.26,2017,Regular
+56,10,Hulkamaniacs,78.36,Crackers,99.1,2017,Regular
+57,10,Bubba,95.04,Street Fighters,104.68,2017,Regular
+58,10,Waiver Wire,104.58,Crusaders,97.34,2017,Regular
+59,10,Monstars,67.2,Afternoon Delights,109.72,2017,Regular
+60,11,Tommy,124.92,Hall,140.74,2017,Regular
+61,11,Farmer Fran,69.46,Hulkamaniacs,107.36,2017,Regular
+62,11,Uncle Bill,91.9,Bubba,108.0,2017,Regular
+63,11,Crackers,92.8,Waiver Wire,79.48,2017,Regular
+64,11,Street Fighters,95.68,Monstars,60.52,2017,Regular
+65,11,Crusaders,95.7,Afternoon Delights,109.62,2017,Regular
+66,12,Hall,123.26,Hulkamaniacs,70.0,2017,Regular
+67,12,Bubba,78.02,Tommy,119.58,2017,Regular
+68,12,Waiver Wire,108.08,Farmer Fran,53.12,2017,Regular
+69,12,Monstars,62.46,Uncle Bill,63.24,2017,Regular
+70,12,Afternoon Delights,83.92,Crackers,109.58,2017,Regular
+71,12,Crusaders,98.46,Street Fighters,123.92,2017,Regular
+72,13,Bubba,63.12,Hall,89.76,2017,Regular
+73,13,Hulkamaniacs,88.08,Waiver Wire,95.94,2017,Regular
+74,13,Tommy,94.42,Monstars,99.36,2017,Regular
+75,13,Farmer Fran,108.92,Afternoon Delights,110.98,2017,Regular
+76,13,Uncle Bill,85.56,Crusaders,107.24,2017,Regular
+77,13,Crackers,53.68,Street Fighters,96.78,2017,Regular
+78,14,Waiver Wire,44.64,BYE,BYE,2017,Regular
+79,14,Crackers,80.64,Hall,120.16,2017,Regular
+80,14,Street Fighters,79.94,Tommy,100.24,2017,Regular
+81,14,Afternoon Delights,117.34,BYE,BYE,2017,Regular
+82,14,Crusaders,98.84,Uncle Bill,98.74,2017,Regular
+83,14,Monstars,84.24,Farmer Fran,87.18,2017,Regular
+84,14,Hulkamaniacs,122.84,Bubba,116.12,2017,Regular
+85,15,Waiver Wire,113.64,Hall,104.18,2017,Playoff
+86,15,Afternoon Delights,103.68,Tommy,72.98,2017,Playoff
+87,15,Street Fighters,142.64,Crackers,119.58,2017,Playoff
+88,15,Crusaders,60.3,Farmer Fran,94.98,2017,Playoff
+89,15,Uncle Bill,80.94,Hulkamaniacs,138.18,2017,Playoff
+90,15,Monstars,64.72,Bubba,47.72,2017,Playoff
+91,16,Waiver Wire,99.26,Afternoon Delights,68.72,2017,Playoff
+92,16,Hall,78.0,Tommy,48.02,2017,Playoff
+93,16,Street Fighters,124.3,Crackers,71.72,2017,Playoff
+94,16,Farmer Fran,63.7,Hulkamaniacs,94.52,2017,Playoff
+95,16,Crusaders,67.1,Monstars,69.82,2017,Playoff
+96,16,Uncle Bill,58.26,Bubba,80.86,2017,Playoff
+0,1,Hulkamaniacs,125.42,Hall,71.58,2018,Regular
+1,1,Tommy,73.58,Bubba,117.96,2018,Regular
+2,1,Farmer Fran,105.46,Waiver Wire,110.92,2018,Regular
+3,1,Uncle Bill,85.24,Monstars,137.34,2018,Regular
+4,1,Crackers,91.62,Afternoon Delights,110.9,2018,Regular
+5,1,Street Fighters,87.34,Crusaders,139.06,2018,Regular
+6,2,Hall,97.16,Bubba,130.96,2018,Regular
+7,2,Waiver Wire,109.02,Hulkamaniacs,70.46,2018,Regular
+8,2,Monstars,97.94,Tommy,100.46,2018,Regular
+9,2,Afternoon Delights,141.44,Farmer Fran,107.44,2018,Regular
+10,2,Crusaders,108.12,Uncle Bill,106.68,2018,Regular
+11,2,Street Fighters,73.4,Crackers,91.24,2018,Regular
+12,3,Waiver Wire,117.98,Hall,74.92,2018,Regular
+13,3,Bubba,95.44,Monstars,85.3,2018,Regular
+14,3,Hulkamaniacs,95.86,Afternoon Delights,111.66,2018,Regular
+15,3,Tommy,83.5,Crusaders,114.74,2018,Regular
+16,3,Farmer Fran,89.74,Street Fighters,112.7,2018,Regular
+17,3,Uncle Bill,71.28,Crackers,83.78,2018,Regular
+18,4,Hall,104.46,Monstars,93.72,2018,Regular
+19,4,Afternoon Delights,135.26,Waiver Wire,111.28,2018,Regular
+20,4,Crusaders,114.78,Bubba,124.96,2018,Regular
+21,4,Street Fighters,106.7,Hulkamaniacs,114.66,2018,Regular
+22,4,Crackers,94.78,Tommy,75.72,2018,Regular
+23,4,Uncle Bill,108.58,Farmer Fran,116.3,2018,Regular
+24,5,Afternoon Delights,114.92,Hall,98.84,2018,Regular
+25,5,Monstars,91.58,Crusaders,156.22,2018,Regular
+26,5,Waiver Wire,95.82,Street Fighters,100.1,2018,Regular
+27,5,Bubba,98.6,Crackers,139.22,2018,Regular
+28,5,Hulkamaniacs,91.6,Uncle Bill,103.56,2018,Regular
+29,5,Tommy,74.04,Farmer Fran,74.96,2018,Regular
+30,6,Hall,91.6,Crusaders,149.9,2018,Regular
+31,6,Street Fighters,86.38,Afternoon Delights,102.38,2018,Regular
+32,6,Crackers,155.58,Monstars,150.5,2018,Regular
+33,6,Uncle Bill,80.4,Waiver Wire,94.66,2018,Regular
+34,6,Farmer Fran,73.38,Bubba,103.32,2018,Regular
+35,6,Tommy,111.92,Hulkamaniacs,119.2,2018,Regular
+36,7,Street Fighters,71.06,Hall,129.18,2018,Regular
+37,7,Crusaders,117.6,Crackers,62.56,2018,Regular
+38,7,Afternoon Delights,132.44,Uncle Bill,122.76,2018,Regular
+39,7,Monstars,116.72,Farmer Fran,101.84,2018,Regular
+40,7,Waiver Wire,102.22,Tommy,96.2,2018,Regular
+41,7,Bubba,100.84,Hulkamaniacs,101.66,2018,Regular
+42,8,Hall,100.46,Crackers,114.02,2018,Regular
+43,8,Uncle Bill,120.56,Street Fighters,126.86,2018,Regular
+44,8,Farmer Fran,120.54,Crusaders,109.0,2018,Regular
+45,8,Tommy,85.84,Afternoon Delights,88.32,2018,Regular
+46,8,Hulkamaniacs,102.4,Monstars,86.1,2018,Regular
+47,8,Bubba,100.86,Waiver Wire,138.7,2018,Regular
+48,9,Uncle Bill,111.48,Hall,112.36,2018,Regular
+49,9,Crackers,81.4,Farmer Fran,102.72,2018,Regular
+50,9,Street Fighters,58.12,Tommy,88.02,2018,Regular
+51,9,Crusaders,138.44,Hulkamaniacs,97.84,2018,Regular
+52,9,Afternoon Delights,132.4,Bubba,102.56,2018,Regular
+53,9,Monstars,103.16,Waiver Wire,66.88,2018,Regular
+54,10,Hall,61.26,Farmer Fran,100.42,2018,Regular
+55,10,Tommy,77.94,Uncle Bill,95.12,2018,Regular
+56,10,Hulkamaniacs,119.7,Crackers,150.34,2018,Regular
+57,10,Bubba,98.9,Street Fighters,146.92,2018,Regular
+58,10,Waiver Wire,89.12,Crusaders,115.14,2018,Regular
+59,10,Monstars,112.26,Afternoon Delights,134.76,2018,Regular
+60,11,Tommy,127.28,Hall,80.92,2018,Regular
+61,11,Farmer Fran,126.84,Hulkamaniacs,79.34,2018,Regular
+62,11,Uncle Bill,91.28,Bubba,107.88,2018,Regular
+63,11,Crackers,118.7,Waiver Wire,115.34,2018,Regular
+64,11,Street Fighters,74.22,Monstars,132.18,2018,Regular
+65,11,Crusaders,151.92,Afternoon Delights,147.02,2018,Regular
+66,12,Hall,135.62,Hulkamaniacs,118.88,2018,Regular
+67,12,Bubba,103.62,Tommy,52.6,2018,Regular
+68,12,Waiver Wire,74.0,Farmer Fran,107.76,2018,Regular
+69,12,Monstars,81.22,Uncle Bill,100.24,2018,Regular
+70,12,Afternoon Delights,127.98,Crackers,131.86,2018,Regular
+71,12,Crusaders,129.94,Street Fighters,73.98,2018,Regular
+72,13,Bubba,70.42,Hall,93.8,2018,Regular
+73,13,Hulkamaniacs,86.28,Waiver Wire,86.28,2018,Regular
+74,13,Tommy,119.04,Monstars,61.92,2018,Regular
+75,13,Farmer Fran,93.26,Afternoon Delights,94.0,2018,Regular
+76,13,Uncle Bill,83.16,Crusaders,128.18,2018,Regular
+77,13,Crackers,140.1,Street Fighters,100.24,2018,Regular
+78,14,Crusaders,110.54,BYE,BYE,2018,Regular
+79,14,Bubba,82.96,Farmer Fran,72.9,2018,Regular
+80,14,Crackers,99.08,Waiver Wire,110.32,2018,Regular
+81,14,Afternoon Delights,135.58,BYE,BYE,2018,Regular
+82,14,Hulkamaniacs,89.2,Hall,127.92,2018,Regular
+83,14,Monstars,102.54,Street Fighters,76.38,2018,Regular
+84,14,Tommy,77.82,Uncle Bill,64.5,2018,Regular
+85,15,Crusaders,42.52,Bubba,52.28,2018,Playoff
+86,15,Afternoon Delights,90.22,Waiver Wire,103.72,2018,Playoff
+87,15,Crackers,92.68,Farmer Fran,82.92,2018,Playoff
+88,15,Hall,87.86,Monstars,52.56,2018,Playoff
+89,15,Hulkamaniacs,122.06,Tommy,37.3,2018,Playoff
+90,15,Street Fighters,80.4,Uncle Bill,49.14,2018,Playoff
+91,16,Bubba,109.98,Waiver Wire,124.88,2018,Playoff
+92,16,Crusaders,95.14,Afternoon Delights,115.12,2018,Playoff
+93,16,Crackers,79.84,Farmer Fran,69.74,2018,Playoff
+94,16,Hulkamaniacs,114.04,Hall,73.74,2018,Playoff
+95,16,Monstars,98.68,Street Fighters,159.2,2018,Playoff
+96,16,Tommy,53.4,Uncle Bill,42.8,2018,Playoff
+0,1,Tommy,110.22,Uncle Bill,158.02,2019,Regular
+1,1,Street Fighters,78.86,Monstars,102.3,2019,Regular
+2,1,Farmer Fran,128.36,Waiver Wire,127.64,2019,Regular
+3,1,Hall,125.86,Hulkamaniacs,77.7,2019,Regular
+4,1,Bubba,80.7,Afternoon Delights,112.22,2019,Regular
+5,1,Crusaders,94.84,Crackers,95.22,2019,Regular
+6,2,Uncle Bill,84.76,Monstars,122.66,2019,Regular
+7,2,Waiver Wire,139.76,Tommy,92.84,2019,Regular
+8,2,Hulkamaniacs,43.82,Street Fighters,78.52,2019,Regular
+9,2,Afternoon Delights,102.02,Farmer Fran,125.58,2019,Regular
+10,2,Crackers,80.92,Hall,120.0,2019,Regular
+11,2,Crusaders,106.6,Bubba,89.3,2019,Regular
+12,3,Waiver Wire,95.14,Uncle Bill,109.8,2019,Regular
+13,3,Monstars,122.44,Hulkamaniacs,114.54,2019,Regular
+14,3,Tommy,148.46,Afternoon Delights,92.66,2019,Regular
+15,3,Street Fighters,75.48,Crackers,94.42,2019,Regular
+16,3,Farmer Fran,131.38,Crusaders,103.96,2019,Regular
+17,3,Hall,125.64,Bubba,82.18,2019,Regular
+18,4,Uncle Bill,109.58,Hulkamaniacs,120.74,2019,Regular
+19,4,Afternoon Delights,58.9,Waiver Wire,104.6,2019,Regular
+20,4,Crackers,103.7,Monstars,78.72,2019,Regular
+21,4,Crusaders,64.18,Tommy,82.0,2019,Regular
+22,4,Bubba,110.02,Street Fighters,113.1,2019,Regular
+23,4,Hall,106.5,Farmer Fran,90.28,2019,Regular
+24,5,Afternoon Delights,102.44,Uncle Bill,130.66,2019,Regular
+25,5,Hulkamaniacs,79.38,Crackers,83.84,2019,Regular
+26,5,Waiver Wire,128.32,Crusaders,124.8,2019,Regular
+27,5,Monstars,126.82,Bubba,137.86,2019,Regular
+28,5,Tommy,78.66,Hall,120.42,2019,Regular
+29,5,Street Fighters,121.44,Farmer Fran,104.26,2019,Regular
+30,6,Uncle Bill,85.42,Crackers,79.0,2019,Regular
+31,6,Crusaders,107.14,Afternoon Delights,94.52,2019,Regular
+32,6,Bubba,80.02,Hulkamaniacs,107.8,2019,Regular
+33,6,Hall,119.5,Waiver Wire,122.26,2019,Regular
+34,6,Farmer Fran,109.44,Monstars,86.22,2019,Regular
+35,6,Street Fighters,72.34,Tommy,86.14,2019,Regular
+36,7,Crusaders,85.96,Uncle Bill,130.56,2019,Regular
+37,7,Crackers,84.98,Bubba,103.3,2019,Regular
+38,7,Afternoon Delights,92.34,Hall,119.64,2019,Regular
+39,7,Hulkamaniacs,72.24,Farmer Fran,75.72,2019,Regular
+40,7,Waiver Wire,82.66,Street Fighters,62.18,2019,Regular
+41,7,Monstars,109.12,Tommy,60.94,2019,Regular
+42,8,Uncle Bill,117.7,Bubba,112.2,2019,Regular
+43,8,Hall,127.18,Crusaders,85.5,2019,Regular
+44,8,Farmer Fran,115.94,Crackers,92.16,2019,Regular
+45,8,Street Fighters,77.58,Afternoon Delights,57.02,2019,Regular
+46,8,Tommy,66.18,Hulkamaniacs,151.78,2019,Regular
+47,8,Monstars,119.36,Waiver Wire,136.76,2019,Regular
+48,9,Hall,106.12,Uncle Bill,132.74,2019,Regular
+49,9,Bubba,89.96,Farmer Fran,110.32,2019,Regular
+50,9,Crusaders,82.54,Street Fighters,100.46,2019,Regular
+51,9,Crackers,70.1,Tommy,79.76,2019,Regular
+52,9,Afternoon Delights,104.26,Monstars,84.38,2019,Regular
+53,9,Hulkamaniacs,100.44,Waiver Wire,86.4,2019,Regular
+54,10,Uncle Bill,79.72,Farmer Fran,127.12,2019,Regular
+55,10,Street Fighters,109.82,Hall,92.38,2019,Regular
+56,10,Tommy,69.92,Bubba,80.0,2019,Regular
+57,10,Monstars,111.48,Crusaders,100.78,2019,Regular
+58,10,Waiver Wire,110.52,Crackers,93.88,2019,Regular
+59,10,Hulkamaniacs,77.78,Afternoon Delights,142.04,2019,Regular
+60,11,Street Fighters,71.42,Uncle Bill,107.42,2019,Regular
+61,11,Farmer Fran,117.08,Tommy,84.16,2019,Regular
+62,11,Hall,75.8,Monstars,108.66,2019,Regular
+63,11,Bubba,87.94,Waiver Wire,80.54,2019,Regular
+64,11,Crusaders,73.44,Hulkamaniacs,102.72,2019,Regular
+65,11,Crackers,111.76,Afternoon Delights,62.18,2019,Regular
+66,12,Uncle Bill,113.32,Tommy,69.24,2019,Regular
+67,12,Monstars,79.12,Street Fighters,72.86,2019,Regular
+68,12,Waiver Wire,96.32,Farmer Fran,130.36,2019,Regular
+69,12,Hulkamaniacs,96.04,Hall,143.0,2019,Regular
+70,12,Afternoon Delights,61.08,Bubba,63.58,2019,Regular
+71,12,Crackers,91.88,Crusaders,79.54,2019,Regular
+72,13,Monstars,115.5,Uncle Bill,80.74,2019,Regular
+73,13,Tommy,49.6,Waiver Wire,100.0,2019,Regular
+74,13,Street Fighters,47.0,Hulkamaniacs,61.26,2019,Regular
+75,13,Farmer Fran,74.9,Afternoon Delights,84.2,2019,Regular
+76,13,Hall,97.84,Crackers,89.44,2019,Regular
+77,13,Bubba,100.54,Crusaders,99.98,2019,Regular
+78,14,Farmer Fran,90.2,BYE,BYE,2019,Regular
+79,14,Waiver Wire,115.94,Monstars,117.68,2019,Regular
+80,14,Uncle Bill,86.6,Bubba,122.28,2019,Regular
+81,14,Hall,87.7,BYE,BYE,2019,Regular
+82,14,Hulkamaniacs,150.56,Crackers,54.74,2019,Regular
+83,14,Street Fighters,78.5,Afternoon Delights,56.22,2019,Regular
+84,14,Tommy,57.6,Crusaders,91.02,2019,Regular
+85,15,Farmer Fran,131.48,Monstars,120.32,2019,Playoff
+86,15,Hall,121.74,Bubba,95.38,2019,Playoff
+87,15,Uncle Bill,134.02,Waiver Wire,82.46,2019,Playoff
+88,15,Hulkamaniacs,103.18,Street Fighters,36.5,2019,Playoff
+89,15,Crackers,131.96,Crusaders,106.6,2019,Playoff
+90,15,Afternoon Delights,103.0,Tommy,98.64,2019,Playoff
+91,16,Farmer Fran,124.22,Hall,94.06,2019,Playoff
+92,16,Monstars,93.06,Bubba,131.18,2019,Playoff
+93,16,Uncle Bill,86.64,Waiver Wire,104.18,2019,Playoff
+94,16,Hulkamaniacs,71.96,Crackers,129.12,2019,Playoff
+95,16,Street Fighters,72.18,Afternoon Delights,70.74,2019,Playoff
+96,16,Tommy,84.36,Crusaders,102.46,2019,Playoff
+0,1,Hall,111.58,Hulkamaniacs,86.8,2019,Regular
+1,1,Tommy,98.36,Bubba,111.08,2019,Regular
+2,1,Waiver Wire,99.3,Street Fighters,88.84,2019,Regular
+3,1,Uncle Bill,115.64,Ed Horne Football Team,112.82,2019,Regular
+4,1,Afternoon Delights,134.16,Farmer Fran,118.3,2019,Regular
+5,1,Crackers,96.6,Crusaders,83.2,2019,Regular
+6,2,Hulkamaniacs,103.58,Bubba,113.1,2019,Regular
+7,2,Street Fighters,90.98,Hall,116.08,2019,Regular
+8,2,Ed Horne Football Team,122.4,Tommy,107.08,2019,Regular
+9,2,Farmer Fran,93.56,Waiver Wire,64.58,2019,Regular
+10,2,Crusaders,122.54,Uncle Bill,156.9,2019,Regular
+11,2,Crackers,161.42,Afternoon Delights,100.18,2019,Regular
+12,3,Street Fighters,0.0,Hulkamaniacs,0.0,2019,Regular
+13,3,Bubba,0.0,Ed Horne Football Team,0.0,2019,Regular
+14,3,Hall,0.0,Farmer Fran,0.0,2019,Regular
+15,3,Tommy,0.0,Crusaders,0.0,2019,Regular
+16,3,Waiver Wire,0.0,Crackers,0.0,2019,Regular
+17,3,Uncle Bill,0.0,Afternoon Delights,0.0,2019,Regular
+18,4,Hulkamaniacs,0.0,Ed Horne Football Team,0.0,2019,Regular
+19,4,Farmer Fran,0.0,Street Fighters,0.0,2019,Regular
+20,4,Crusaders,0.0,Bubba,0.0,2019,Regular
+21,4,Crackers,0.0,Hall,0.0,2019,Regular
+22,4,Afternoon Delights,0.0,Tommy,0.0,2019,Regular
+23,4,Uncle Bill,0.0,Waiver Wire,0.0,2019,Regular
+24,5,Farmer Fran,0.0,Hulkamaniacs,0.0,2019,Regular
+25,5,Ed Horne Football Team,0.0,Crusaders,0.0,2019,Regular
+26,5,Street Fighters,0.0,Crackers,0.0,2019,Regular
+27,5,Bubba,0.0,Afternoon Delights,0.0,2019,Regular
+28,5,Hall,0.0,Uncle Bill,0.0,2019,Regular
+29,5,Tommy,0.0,Waiver Wire,0.0,2019,Regular
+30,6,Hulkamaniacs,0.0,Crusaders,0.0,2019,Regular
+31,6,Crackers,0.0,Farmer Fran,0.0,2019,Regular
+32,6,Afternoon Delights,0.0,Ed Horne Football Team,0.0,2019,Regular
+33,6,Uncle Bill,0.0,Street Fighters,0.0,2019,Regular
+34,6,Waiver Wire,0.0,Bubba,0.0,2019,Regular
+35,6,Tommy,0.0,Hall,0.0,2019,Regular
+36,7,Crackers,0.0,Hulkamaniacs,0.0,2019,Regular
+37,7,Crusaders,0.0,Afternoon Delights,0.0,2019,Regular
+38,7,Farmer Fran,0.0,Uncle Bill,0.0,2019,Regular
+39,7,Ed Horne Football Team,0.0,Waiver Wire,0.0,2019,Regular
+40,7,Street Fighters,0.0,Tommy,0.0,2019,Regular
+41,7,Bubba,0.0,Hall,0.0,2019,Regular
+42,8,Hulkamaniacs,0.0,Afternoon Delights,0.0,2019,Regular
+43,8,Uncle Bill,0.0,Crackers,0.0,2019,Regular
+44,8,Waiver Wire,0.0,Crusaders,0.0,2019,Regular
+45,8,Tommy,0.0,Farmer Fran,0.0,2019,Regular
+46,8,Hall,0.0,Ed Horne Football Team,0.0,2019,Regular
+47,8,Bubba,0.0,Street Fighters,0.0,2019,Regular
+48,9,Uncle Bill,0.0,Hulkamaniacs,0.0,2019,Regular
+49,9,Afternoon Delights,0.0,Waiver Wire,0.0,2019,Regular
+50,9,Crackers,0.0,Tommy,0.0,2019,Regular
+51,9,Crusaders,0.0,Hall,0.0,2019,Regular
+52,9,Farmer Fran,0.0,Bubba,0.0,2019,Regular
+53,9,Ed Horne Football Team,0.0,Street Fighters,0.0,2019,Regular
+54,10,Hulkamaniacs,0.0,Waiver Wire,0.0,2019,Regular
+55,10,Tommy,0.0,Uncle Bill,0.0,2019,Regular
+56,10,Hall,0.0,Afternoon Delights,0.0,2019,Regular
+57,10,Bubba,0.0,Crackers,0.0,2019,Regular
+58,10,Street Fighters,0.0,Crusaders,0.0,2019,Regular
+59,10,Ed Horne Football Team,0.0,Farmer Fran,0.0,2019,Regular
+60,11,Tommy,0.0,Hulkamaniacs,0.0,2019,Regular
+61,11,Waiver Wire,0.0,Hall,0.0,2019,Regular
+62,11,Uncle Bill,0.0,Bubba,0.0,2019,Regular
+63,11,Afternoon Delights,0.0,Street Fighters,0.0,2019,Regular
+64,11,Crackers,0.0,Ed Horne Football Team,0.0,2019,Regular
+65,11,Crusaders,0.0,Farmer Fran,0.0,2019,Regular
