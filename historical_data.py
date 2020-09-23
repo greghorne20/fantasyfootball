@@ -49,7 +49,7 @@ def get_team_name_by_id(id):
     elif id == 'BYE':
         return id
 
-def append_data_for_year(data, df):
+def append_data_for_year(data, df, year):
     curr_year_df = [[
             game['matchupPeriodId'],
             get_team_name_by_id(game['home']['teamId']), game['home']['totalPoints'],
@@ -73,14 +73,13 @@ df = pd.DataFrame(columns=columns)
 for year in range(starting_year, ending_year):
     r = requests.get(url, params={"seasonId":str(year), "view": "mMatchup"})
     d = r.json()[0]
-    df = append_data_for_year(d, df)
+    df = append_data_for_year(d, df, year)
 
-# TODO: This isn't working:
 url = "https://fantasy.espn.com/apis/v3/games/ffl/seasons/2020/segments/0/leagues/" + \
       str(league_id)
 r = requests.get(url, params={"view": "mMatchup"})
 d = r.json()
-df = append_data_for_year(d, df)
+df = append_data_for_year(d, df, '2020')
 
 print(df)
 df.to_csv("history.csv")
